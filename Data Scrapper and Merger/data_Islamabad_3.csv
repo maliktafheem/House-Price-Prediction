@@ -1,0 +1,997 @@
+,Property_ID,Property_Name,Property_Type,Property_Purpose,Baths,Bedrooms,City,Property_Location,Area,Area_Name,Properity_Price,Date_Added
+0,Flat 42578653,One Bed Apartment Available For rent in Capital Residencia E11,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.1 ,E-11,50000,28/12/2022
+1,Flat 42875102,Brand New Two bed Apartment Available for rent in Capital Residencia E11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,55000,28/12/2022
+2,Flat 42862875,Brand new Furnished Flat For Girls Hostel in Sector H-13 Islamabad,Flat,For Rent,2,2,Islamabad,"H-13, Islamabad, Islamabad Capital",3.9 ,H-13,33000,28/12/2022
+3,Flat 41919247,One Bed Luxury Furnished Available For Rent In E-11 Islamabad.,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.8 ,E-11,65000,28/12/2022
+4,Flat 43003804,Gorgeous 1050 Square Feet Flat For rent Available In MPCHS - Multi Gardens,Flat,For Rent,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",4.7 ,B-17,50000,28/12/2022
+5,Flat 43003806,Your Ideal 1400 Square Feet Flat Has Just Become Available In MPCHS - Multi Gardens,Flat,For Rent,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",6.2 ,B-17,38000,28/12/2022
+6,Flat 43003808,In Islamabad You Can Find The Perfect Flat For rent,Flat,For Rent,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",4.9 ,B-17,28000,28/12/2022
+7,Flat 43003810,In Islamabad You Can Find The Perfect Flat For rent,Flat,For Rent,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",4.6 ,B-17,30000,28/12/2022
+8,Flat 43191681,Highly-Desirable 1600 Square Feet Flat Available In E-11,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,200000,28/12/2022
+9,Flat 43191680,Centrally Located Flat In E-11 Is Available For rent,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,200000,28/12/2022
+10,Flat 43191678,1250 Square Feet Flat In Central E-11 For rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,28/12/2022
+11,Flat 43191677,In E-11 1600 Square Feet Flat For rent,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,200000,28/12/2022
+12,Flat 43043343,"245 Square Feet Flat Available For Sale In Top City 1, Top City 1",Flat,For Sale,1,1,Islamabad,"Top City 1, Islamabad, Islamabad Capital",1.1 ,Top City 1,7900000,27/12/2022
+13,Flat 42653569,Ideally Located Flat Of 1545 Square Feet Is Available For sale In Islamabad,Flat,For Sale,3,3,Islamabad,"G-15, Islamabad, Islamabad Capital",6.9 ,G-15,20000000,27/12/2022
+14,Flat 43035121,"Luxury One Bedroom apartment for sale in Goldcrest Highlife-3 near Giga Mall, WTC, Defence Residency DHA-2 Islamabad",Flat,For Sale,1,1,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",2.1 ,DHA Defence,4500000,27/12/2022
+15,Flat 43032444,Ready 3 Bed Apartment Golf View Apartment For Sale In Eighteen Islamabad,Flat,For Sale,4,3,Islamabad,"Kashmir Highway, Islamabad, Islamabad Capital",8.9 ,Kashmir Highway,50000000,27/12/2022
+16,Flat 42837303,THREE BED BRAND NEW LUXURY APARTMENT FOR SALE.,Flat,For Sale,3,3,Islamabad,"G-15, Islamabad, Islamabad Capital",6.9 ,G-15,20000000,27/12/2022
+17,Flat 42722006,Prime Location Flat Of 2100 Square Feet In The Arch Is Available,Flat,For Sale,4,3,Islamabad,"G-11, Islamabad, Islamabad Capital",9.3 ,G-11,40000000,26/12/2022
+18,Flat 41934827,J7 Emporium B17 Islamabad,Flat,For Sale,1,1,Islamabad,"B-17, Islamabad, Islamabad Capital",3 ,B-17,8200000,26/12/2022
+19,Flat 43033281,Prime Location 1350 Square Feet Flat In Stunning E-11/4 Is Available For sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6 ,E-11,20000000,25/12/2022
+20,Flat 42398493,3 Bedroom Apartment For Sale,Flat,For Sale,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",4.9 ,E-11,20000000,25/12/2022
+21,Flat 43033229,Prime Location Apollo Towers Flat Sized 1000 Square Feet Is Available,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4.4 ,E-11,20000000,25/12/2022
+22,Flat 43177814,582 Square Feet Flat For sale In Beautiful Top City 1,Flat,For Sale,-,-,Islamabad,"Top City 1, Islamabad, Islamabad Capital",2.6 ,Top City 1,30000000,28/12/2022
+23,Flat 43177960,"Property For sale In Top City 1 Top City 1 Is Available Under Rs. 20,370,000",Flat,For Sale,-,-,Islamabad,"Top City 1, Islamabad, Islamabad Capital",2.6 ,Top City 1,30000000,28/12/2022
+24,Flat 40967399,2 Bed Apartment For Sale Fiver Star Residence In A Installment Plan,Flat,For Sale,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.2 ,G-11,40000000,28/12/2022
+25,Flat 42028735,4   Bed Corner Apartment For Sale,Flat,For Sale,4,4,Islamabad,"F-11, Islamabad, Islamabad Capital",14.2 ,F-11,50000000,28/12/2022
+26,Flat 39419559,Promising 973 Sq Ft Flat Available In 10739,Flat,For Sale,1,1,Islamabad,"Blue Area, Islamabad, Islamabad Capital",4.3 ,Blue Area,40000000,28/12/2022
+27,Flat 40966339,1bed Apartment For Sale In Prime Location Blue Area,Flat,For Sale,1,1,Islamabad,"Blue Area, Islamabad, Islamabad Capital",4.3 ,Blue Area,40000000,28/12/2022
+28,Flat 36593090,3 Bed  Flat  For Sale In F11,Flat,For Sale,3,3,Islamabad,"F-11, Islamabad, Islamabad Capital",8.9 ,F-11,40000000,28/12/2022
+29,Flat 43191890,Ready To sale A Flat 1600 Square Feet In E-11 E-11,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,30000000,28/12/2022
+30,Flat 43191889,"2000 Square Feet Flat For sale In Rs. 35,000,000 Only",Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",8.9 ,E-11,40000000,28/12/2022
+31,Flat 43191888,1400 Square Feet Flat Is Available For sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,20000000,28/12/2022
+32,Flat 43191887,Buying A Flat In E-11?,Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.7 ,E-11,9000000,28/12/2022
+33,Flat 43191886,Flat Of 1200 Square Feet Is Available For sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.3 ,E-11,20000000,28/12/2022
+34,Flat 43003769,MPCHS - Multi Gardens 750 Square Feet Flat Up For sale,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3.3 ,B-17,4500000,28/12/2022
+35,Flat 43003770,A Stunning Flat Is Up For Grabs In MPCHS - Multi Gardens Islamabad,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",6.2 ,B-17,10000000,28/12/2022
+36,Flat 43003771,This Is Your Chance To Buy Flat In Islamabad,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",4.7 ,B-17,6500000,28/12/2022
+37,House 42499326,Sector A 10 Marla Brand New House For Sale,House,For Sale,5,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,50000000,22/12/2022
+38,House 42626963,Sector A Kanal House For Sale,House,For Sale,6,7,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",20.0,Bahria Town,80000000,22/12/2022
+39,House 42650846,Sector C3 One Kanal Brand New House For Sale,House,For Sale,6,6,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",20.0,Bahria Town,80000000,22/12/2022
+40,House 40978535,Sector N 8 Marla House For Sale,House,For Sale,5,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",8 ,Bahria Town,40000000,22/12/2022
+41,House 42535582,Half Kanal luxury villa Available for sale in Eighteen Islamabad,House,For Sale,5,4,Islamabad,"Kashmir Highway, Islamabad, Islamabad Capital",10 ,Kashmir Highway,50000000,27/12/2022
+42,House 40980121,Double Storey House For Sale In C Block Cbr Town Phase1 Islamabad,House,For Sale,6,5,Islamabad,"CBR Town, Islamabad, Islamabad Capital",7 ,CBR Town,30000000,27/12/2022
+43,House 43153060,Prime Location 10 Marla House For sale In G-13/2,House,For Sale,6,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,70000000,27/12/2022
+44,House 42896644,30x60 Main 70 Ft Road Used House Available For Sale In G14/4 Islamabad.,House,For Sale,4,4,Islamabad,"G-14, Islamabad, Islamabad Capital",7 ,G-14,40000000,27/12/2022
+45,House 42628256,5 Marla Brand New House In Bahria Enclave Islamabad,House,For Sale,4,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,30000000,26/12/2022
+46,House 43127771,5 Marla Double Storey House Is Available For Sale In Qutbal Town Islamabad,House,For Sale,3,3,Islamabad,"Qutbal Town, Islamabad, Islamabad Capital",5 ,Qutbal Town,20000000,26/12/2022
+47,House 41687368,8marla Park Face House Up For Sale,House,For Sale,6,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",8 ,Bahria Town,40000000,28/12/2022
+48,House 41873353,Corner 10 Marla House With Basement Up For Sale,House,For Sale,8,7,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,60000000,28/12/2022
+49,House 43168865,Ideally Located House Of 500 Square Yards Is Available For sale In E-11,House,For Sale,7,7,Islamabad,"E-11, Islamabad, Islamabad Capital",20.0,E-11,160000000,28/12/2022
+50,House 40914413,Prime Location Brand New Designer House With Extra Land  For Sale In D-12/4 Islamabad,House,For Sale,4,3,Islamabad,"D-12, Islamabad, Islamabad Capital",4.4 ,D-12,40000000,28/12/2022
+51,House 41725427,Old House For Sale In G-6 2,House,For Sale,3,3,Islamabad,"G-6, Islamabad, Islamabad Capital",10 ,G-6,60000000,28/12/2022
+52,House 41972080,Corner House For Sale In G-6,House,For Sale,6,6,Islamabad,"G-6, Islamabad, Islamabad Capital",8 ,G-6,60000000,28/12/2022
+53,House 40685415,2.5 Storey House For Sale In PWD,House,For Sale,6,7,Islamabad,"PWD Housing Scheme, Islamabad, Islamabad Capital",9.3 ,PWD Housing Scheme,40000000,28/12/2022
+54,House 43192049,F11 Margalla Road 666 Sq Yard House For Sale,House,For Sale,6,8,Islamabad,"F-11, Islamabad, Islamabad Capital",26.0,F-11,200000000,28/12/2022
+55,House 43191953,F11.4 (1022) Sq Yard House  For Sale Very Prime Location,House,For Sale,6,8,Islamabad,"F-11, Islamabad, Islamabad Capital",40.0,F-11,350000000,28/12/2022
+56,House 42524240,40*80 Newly Built Double Storey House For Sale On Reasonable Price.,House,For Sale,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",14.2 ,I-8,110000000,28/12/2022
+57,House 42524296,CORNER SINGLE STOREY HOUSE FOR SALE ON REASONABLE PRICE.,House,For Sale,3,3,Islamabad,"I-8, Islamabad, Islamabad Capital",14 ,I-8,90000000,28/12/2022
+58,House 42593901,New Double Storey House For Sale On Reasonable Price.,House,For Sale,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",14 ,I-8,110000000,28/12/2022
+59,House 43191911,F11.4 (1022) Sq Yard House  For Sale Very Prime Location,House,For Sale,6,6,Islamabad,"F-11, Islamabad, Islamabad Capital",40.0,F-11,300000000,28/12/2022
+60,House 43152916,This Is Your Chance To Buy House In Islamabad,House,For Sale,7,7,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,50000000,28/12/2022
+61,House 42843637,Proper Corner Triple Storey House For Sale On Reasonable Price.,House,For Sale,-,9,Islamabad,"I-8, Islamabad, Islamabad Capital",12.5 ,I-8,100000000,28/12/2022
+62,House 42630408,Brand New House For Rent In F-8,House,For Rent,6,8,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,1200000,25/12/2022
+63,House 36374314,Ideally Located House Available For Rent In F-7 Islamabad,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,700000,24/12/2022
+64,House 42579045,House Is Available For Rent In Islamabad,House,For Rent,6,6,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,1500000,24/12/2022
+65,House 20009015,F6 Prime Location Ambassador Level Excellent Luxury House For Rent,House,For Rent,7,6,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,500000,24/12/2022
+66,House 21865881,F-7 In Beautiful House Big Lawn Primary Location House For Rent,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,400000,24/12/2022
+67,House 36256077,Brand New House For Rent In F6,House,For Rent,6,5,Islamabad,"F-6, Islamabad, Islamabad Capital",20.0,F-6,600000,24/12/2022
+68,House 36259654,Beautiful House For Rent In F6,House,For Rent,6,6,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,600000,24/12/2022
+69,House 36257324,Fully Furnished House For Rent In F7,House,For Rent,9,8,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,1000000,24/12/2022
+70,House 43042731,New 07 Bedrooms Triple Storey Designer House,House,For Rent,7,7,Islamabad,"D-12, Islamabad, Islamabad Capital",20.0,D-12,400000,26/12/2022
+71,House 42818580,"1 Kanal 9 Bed Room  Ground And Besment In E/11 Available For Rent
+ Demond Rent:300,000 Rupee's",House,For Rent,-,9,Islamabad,"E-11, Islamabad, Islamabad Capital",20.0,E-11,300000,27/12/2022
+72,House 42233479,500 Sqyd Ground Plus Upper Portion With Double Kitchen Available For Rent F 8 Only Foreigners,House,For Rent,4,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,700000,26/12/2022
+73,House 41370212,800 Sqyd Renovated Double Storey House Is Available Rent,House,For Rent,5,5,Islamabad,"F-7, Islamabad, Islamabad Capital",32.0,F-7,900000,26/12/2022
+74,House 43166744,Like Brand New 7 Bedroom Full House In F-8 For Rent,House,For Rent,7,7,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,1100000,27/12/2022
+75,House 43145078,"5 Marla Beautiful Sbrand New Ingle (dedh) Storey Independent House For Bachelors For Rent Ghauri Town Ph 5a, Islamabad",House,For Rent,4,3,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",5 ,Ghauri Town,35000,27/12/2022
+76,House 43166294,Like Brand New Fully Furnished 5 Bedroom Full House In E-7 For Rent,House,For Rent,5,5,Islamabad,"E-7, Islamabad, Islamabad Capital",20.0,E-7,1400000,27/12/2022
+77,House 42808338,Bueatiful House Available For Rent,House,For Rent,5,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,600000,27/12/2022
+78,House 43075632,D-12/2 Brand New 4 Bedrooms  Ground Plus Basement For Rent,House,For Rent,4,4,Islamabad,"D-12, Islamabad, Islamabad Capital",10 ,D-12,200000,27/12/2022
+79,House 43153125,Stunning House Is Available For rent In Soan Garden,House,For Rent,2,2,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",7 ,Soan Garden,40000,28/12/2022
+80,House 43153124,1 Kanal House Ideally Situated In CBR Town Phase 1,House,For Rent,6,6,Islamabad,"CBR Town, Islamabad, Islamabad Capital",20.0,CBR Town,200000,28/12/2022
+81,House 43191653,Primary location Triple Story Renovated beautiful house for rent 4500,House,For Rent,7,6,Islamabad,"E-7, Islamabad, Islamabad Capital",26.0,E-7,900000,28/12/2022
+82,House 43191569,A Graceful Freshly Painted 6 Bed House Is Available For Rent,House,For Rent,6,6,Islamabad,"F-6, Islamabad, Islamabad Capital",24.0,F-6,800000,28/12/2022
+83,House 43153133,7 Marla House In Stunning Soan Garden Is Available For rent,House,For Rent,2,2,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",7 ,Soan Garden,40000,28/12/2022
+84,House 43191111,House With Extra Land Beautiful Garden And Margalla View. triple Story,House,For Rent,8,7,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,1300000,28/12/2022
+85,House 43093314,Full House For Rent,House,For Rent,6,6,Islamabad,"E-11, Islamabad, Islamabad Capital",8 ,E-11,200000,28/12/2022
+86,House 42443220,8 Marla House In MPCHS - Multi Gardens For rent,House,For Rent,-,4,Islamabad,"B-17, Islamabad, Islamabad Capital",8 ,B-17,70000,28/12/2022
+87,Flat 42923755,The Royal Mall and Residency Flat For rent Sized 950 Square Feet,Flat,For Rent,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",4.2 ,Bahria Town,50000,27/12/2022
+88,Flat 42923756,1700 Square Feet Flat In The Royal Mall and Residency,Flat,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.6 ,Bahria Town,85000,27/12/2022
+89,Flat 42923757,Book A 2100 Square Feet Flat In The Royal Mall and Residency,Flat,For Rent,-,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",9.3 ,Bahria Town,70000,27/12/2022
+90,Flat 42923788,Get A 1700 Square Feet Flat For rent In The Royal Mall and Residency,Flat,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.6 ,Bahria Town,85000,27/12/2022
+91,Flat 42923792,1700 Square Feet Flat For rent In The Royal Mall and Residency,Flat,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.6 ,Bahria Town,85000,27/12/2022
+92,Flat 42923793,2100 Square Feet Flat For rent In The Royal Mall and Residency,Flat,For Rent,-,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",9.3 ,Bahria Town,70000,27/12/2022
+93,Flat 42923797,Ideal Flat In Islamabad Available For,Flat,For Rent,-,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",8.9 ,Bahria Town,200000,27/12/2022
+94,Flat 42923841,Get This Amazing 2000 Square Feet Flat Available In The Royal Mall and Residency,Flat,For Rent,-,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",8.9 ,Bahria Town,200000,27/12/2022
+95,Flat 42923835,Perfect 1700 Square Feet Flat In The Royal Mall and Residency For rent,Flat,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.6 ,Bahria Town,85000,27/12/2022
+96,Flat 42576959,Four Bedroom Furnished Apartment,Flat,For Rent,5,4,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",17.8 ,Constitution Avenue,800000,27/12/2022
+97,Flat 42656787,2 Bedroom Flat Available For Rent In Creek Heights Apartments,Flat,For Rent,2,2,Islamabad,"River Garden, Islamabad, Islamabad Capital",4.9 ,River Garden,35000,27/12/2022
+98,Flat 42839488,"4 Bed Room 1st Floor Apartment For Rent Askari Tower 1, DHA Phase 2,",Flat,For Rent,4,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",13.1 ,DHA Defence,95000,27/12/2022
+99,Flat 41918890,Two Bed Luxury Furnished Apartment Available For Rent In E -11 Islamabad.,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,90000,28/12/2022
+100,Flat 41917535,One Bed Luxury Furnished Apartment Available For Rent In E 11 Islamabad,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.8 ,E-11,60000,28/12/2022
+101,Flat 43181849,1 Bed Flat Available For Rent,Flat,For Rent,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2.3 ,Bahria Town,30000,28/12/2022
+102,Flat 42849994,E11 Original Pictures 2 Beds Drawing Room Flat Separate Gas Electricity Meters Car Parking,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.3 ,E-11,50000,28/12/2022
+103,Flat 21980378,Three Bedrooms Apartment For Rent At Dha Phase 2,Flat,For Rent,4,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",6.7 ,DHA Defence,45000,28/12/2022
+104,Flat 43191676,Flat In E-11 For rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,28/12/2022
+105,Flat 43191673,Centrally Located Flat In E-11 Is Available For rent,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,200000,28/12/2022
+106,Flat 43191674,Avail Yourself A Great 1250 Square Feet Flat In E-11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,28/12/2022
+107,Flat 43191672,E-11 1250 Square Feet Flat Up For rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,28/12/2022
+108,Flat 43191670,1250 Square Feet Flat In E-11 Of E-11 Is Available For rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,28/12/2022
+109,Flat 43191671,Flat Of 1600 Square Feet In E-11 For rent,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,200000,28/12/2022
+110,Flat 43191669,1600 Square Feet Flat For rent In E-11 E-11,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,200000,28/12/2022
+111,Flat 43191668,Centrally Located Flat For rent In E-11 Available,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,28/12/2022
+112,Flat 42838389,One Bed Brand New Luxury Apartments For Sale.,Flat,For Sale,1,1,Islamabad,"G-15, Islamabad, Islamabad Capital",2.8 ,G-15,9000000,27/12/2022
+113,Flat 42723682,Signature Hotels Flat,Flat,For Sale,1,1,Islamabad,"Top City 1, Islamabad, Islamabad Capital",1.3 ,Top City 1,9500000,27/12/2022
+114,Flat 42697554,Signature Hotels 523 Square Feet Flat Available For Sale In Top City 1 If You Hurry,Flat,For Sale,1,-,Islamabad,"Top City 1, Islamabad, Islamabad Capital",2.3 ,Top City 1,20000000,27/12/2022
+115,Flat 42757988,Prime Location,Flat,For Sale,-,-,Islamabad,"Top City 1, Islamabad, Islamabad Capital",2.6 ,Top City 1,30000000,27/12/2022
+116,Flat 41815824,1 Bed Luxurious Apartment in Gulberg Greens Islamabad with easy 3.5 Years installment plan,Flat,For Sale,1,1,Islamabad,"Gulberg, Islamabad, Islamabad Capital",2.8 ,Gulberg,9500000,27/12/2022
+117,Flat 43121253,2 Bed Unfurnished Flat For Sale In E11/3,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",3.3 ,E-11,20000000,25/12/2022
+118,Flat 42142509,One Bed Furnished Apartment In Capital Residencia,Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.9 ,E-11,10000000,28/12/2022
+119,Flat 42788141,Flat For sale In Top City 1,Flat,For Sale,-,-,Islamabad,"Top City 1, Islamabad, Islamabad Capital",1.3 ,Top City 1,20000000,27/12/2022
+120,Flat 43175242,2 Bedroom Furnished Flat For Sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.3 ,E-11,20000000,28/12/2022
+121,Flat 41936513,A Stunning Flat Is Up For Grabs In G-11/4 Islamabad,Flat,For Sale,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",4 ,G-11,20000000,28/12/2022
+122,Flat 42001271,G10-2 Flat For Sale,Flat,For Sale,2,2,Islamabad,"G-10, Islamabad, Islamabad Capital",6.2 ,G-10,20000000,27/12/2022
+123,Flat 42370692,Capital Residenciea 2 Bed Flat For Sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,20000000,27/12/2022
+124,Flat 43169209,Capital Residenciea Flat For Sale,Flat,For Sale,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.6 ,E-11,20000000,27/12/2022
+125,Flat 43003772,Buy A Centrally Located 1150 Square Feet Flat In MPCHS - Multi Gardens,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",5.1 ,B-17,6500000,28/12/2022
+126,Flat 43003773,Own A Flat In 750 Square Feet Islamabad,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3.3 ,B-17,10000000,28/12/2022
+127,Flat 43003774,"A Flat Of 750 Square Feet In Rs. 10,000,000",Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3.3 ,B-17,10000000,28/12/2022
+128,Flat 43003775,Reserve A Flat Now In MPCHS - Multi Gardens,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3.3 ,B-17,4500000,28/12/2022
+129,Flat 43003776,End Your Search For Flat Here And sale Now,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",6.2 ,B-17,10000000,28/12/2022
+130,Flat 43003777,Flat In MPCHS - Multi Gardens For sale,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",4.7 ,B-17,6500000,28/12/2022
+131,Flat 43003778,1150 Square Feet Spacious Flat Available In MPCHS - Multi Gardens For sale,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",5.1 ,B-17,6500000,28/12/2022
+132,Flat 43003789,"Ideal 750 Square Feet Flat has landed on market in MPCHS - Multi Gardens, Islamabad",Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3.3 ,B-17,4500000,28/12/2022
+133,House 42186877,5 Marla Corner Extra Land House Available For Sale In i-10/1,House,For Sale,7,6,Islamabad,"I-10, Islamabad, Islamabad Capital",5 ,I-10,40000000,27/12/2022
+134,House 42841145,Elegant House Design Beautiful 1 Kanal New House,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,110000000,27/12/2022
+135,House 43032367,Half Kanal Ready Villa in Eighteen Islamabad,House,For Sale,-,-,Islamabad,"Kashmir Highway, Islamabad, Islamabad Capital",10 ,Kashmir Highway,60000000,27/12/2022
+136,House 42973076,1.2 Kanal House For sale in I-8 3,House,For Sale,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",24.0,I-8,170000000,27/12/2022
+137,House 42973611,1 Kanal Double Unit House Best Location Dha Phase 2,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,80000000,27/12/2022
+138,House 43156302,14 Marla Corner Designer House Available For Sale In G-16,House,For Sale,9,8,Islamabad,"G-16, Islamabad, Islamabad Capital",14 ,G-16,70000000,26/12/2022
+139,House 43107024,Residential House for Sale in D 12,House,For Sale,5,5,Islamabad,"D-12, Islamabad, Islamabad Capital",10 ,D-12,100000000,26/12/2022
+140,House 43090758,Buying A House In G-13 G-13?,House,For Sale,6,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,70000000,26/12/2022
+141,House 42364639,35x70 Double Storey House For Sale In G-10/4,House,For Sale,6,7,Islamabad,"G-10, Islamabad, Islamabad Capital",10 ,G-10,70000000,26/12/2022
+142,House 43147269,Beautiful House For Sale In Bhara Kahu,House,For Sale,6,9,Islamabad,"Bhara kahu, Islamabad, Islamabad Capital",22.0,Bhara kahu,60000000,26/12/2022
+143,House 41775653,4 Marla Corner House For Sale In G-14 Islamabad,House,For Sale,7,6,Islamabad,"G-14, Islamabad, Islamabad Capital",4 ,G-14,40000000,28/12/2022
+144,House 41460283,4 Marla House For Sale In G-14 Islamabad,House,For Sale,5,4,Islamabad,"G-14, Islamabad, Islamabad Capital",4 ,G-14,30000000,28/12/2022
+145,House 42956482,Brand New 25x40 House For Sale In G-13/1,House,For Sale,5,4,Islamabad,"G-13, Islamabad, Islamabad Capital",4 ,G-13,30000000,28/12/2022
+146,House 43016337,Brand New 25x50 House For Sale In G-13/2,House,For Sale,6,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,60000000,28/12/2022
+147,House 42892976,Top Location 30x60 House For Sale In G-13/2,House,For Sale,6,5,Islamabad,"G-13, Islamabad, Islamabad Capital",8 ,G-13,40000000,28/12/2022
+148,House 42810906,3200 Square Feet House In I-8 Is Best Option,House,For Sale,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",14.2 ,I-8,90000000,28/12/2022
+149,House 42811177,House For sale Is Readily Available In Prime Location Of I-8/4,House,For Sale,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",14.2 ,I-8,100000000,28/12/2022
+150,House 43152923,Soan Garden House For sale Sized 1250 Square Feet,House,For Sale,4,4,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",5.6 ,Soan Garden,20000000,28/12/2022
+151,House 43152921,Stunning 1250 Square Feet House In Soan Garden Available,House,For Sale,4,4,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",5.6 ,Soan Garden,20000000,28/12/2022
+152,House 43152915,sale A House In Soan Garden Prime Location,House,For Sale,5,5,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",10 ,Soan Garden,30000000,28/12/2022
+153,House 43152914,1 Kanal House In Soan Garden Is Best Option,House,For Sale,6,6,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,60000000,28/12/2022
+154,House 43152913,In Soan Garden 1 Kanal House For sale,House,For Sale,6,6,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,70000000,28/12/2022
+155,House 43152936,Stunning House Is Available For sale In Soan Garden,House,For Sale,4,4,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",5.6 ,Soan Garden,20000000,28/12/2022
+156,House 43152937,House For sale In Soan Garden,House,For Sale,4,4,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",6.7 ,Soan Garden,20000000,28/12/2022
+157,House 43152934,House In CBR Town Phase 1 - Block C For sale,House,For Sale,5,5,Islamabad,"CBR Town, Islamabad, Islamabad Capital",8 ,CBR Town,30000000,28/12/2022
+158,House 41921543,House For Rent Dha Phase 1 Islamabad,House,For Rent,5,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,200000,24/12/2022
+159,House 43025740,10 Marla House For Rent,House,For Rent,6,6,Islamabad,"E-16, Islamabad, Islamabad Capital",10 ,E-16,45000,27/12/2022
+160,House 42987426,Brand New House For Rent,House,For Rent,5,5,Islamabad,"Zaraj Housing Scheme, Islamabad, Islamabad Capital",10 ,Zaraj Housing Scheme,85000,28/12/2022
+161,House 42876486,House Available For Rent,House,For Rent,5,5,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,700000,22/12/2022
+162,House 42863747,E-7 Elegant House For Rent,House,For Rent,6,6,Islamabad,"E-7, Islamabad, Islamabad Capital",32.0,E-7,1800000,26/12/2022
+163,House 42686872,Kanal House Available For Rent,House,For Rent,7,6,Islamabad,"G-13, Islamabad, Islamabad Capital",20.0,G-13,300000,25/12/2022
+164,House 42063713,500 Sq. Yd Renovated Double Storey House For Rent In F-8 Islamabad,House,For Rent,4,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,400000,26/12/2022
+165,House 43050687,Brand New House Available On Hiring,House,For Rent,5,5,Islamabad,"I-10, Islamabad, Islamabad Capital",6 ,I-10,200000,26/12/2022
+166,House 43050947,Double Storey House Available On Rent In I-10 1,House,For Rent,5,5,Islamabad,"I-10, Islamabad, Islamabad Capital",4 ,I-10,85000,26/12/2022
+167,House 42886100,Bahria Enclave Sector A 10 Marla House available for Rent,House,For Rent,5,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,200000,26/12/2022
+168,House 43090671,VIP location Defence villa is available For Rent in DHA phase 1 sector F,House,For Rent,4,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",11 ,DHA Defence,100000,25/12/2022
+169,House 43028620,Highly-Desirable 3200 Square Feet House Available In I-8/3,House,For Rent,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",14.2 ,I-8,300000,25/12/2022
+170,House 43162590,1200sqyd 8 Beds Semi Furnished Luxury House For Rent In F6,House,For Rent,6,8,Islamabad,"F-6, Islamabad, Islamabad Capital",48.0,F-6,1500000,27/12/2022
+171,House 40077708,Prime Location New House For Rent In F. 8. islamabad,House,For Rent,-,11,Islamabad,"F-8, Islamabad, Islamabad Capital",40.0,F-8,1500000,27/12/2022
+172,House 42590277,Ambassador Level Brand New House For Rent In F 10 Islamabad,House,For Rent,-,6,Islamabad,"F-10, Islamabad, Islamabad Capital",40.0,F-10,1300000,27/12/2022
+173,House 42589966,Prime Location New House For Rent In F. 8. islamabad,House,For Rent,6,6,Islamabad,"F-8, Islamabad, Islamabad Capital",24.0,F-8,800000,27/12/2022
+174,House 42589958,Prime Location New House For Rent In F. 7 Islamabad,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",44.0,F-7,1000000,27/12/2022
+175,House 43191018,Primary Location Luxury Ambassador 0r Embassy Level House For Rent In F-8,House,For Rent,10,10,Islamabad,"F-8, Islamabad, Islamabad Capital",80.0,F-8,2500000,28/12/2022
+176,House 43190983,2 Kanal House For Rent With Front Back Lawn,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,800000,28/12/2022
+177,House 43190816,House For Rent in f-7,House,For Rent,5,5,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,600000,28/12/2022
+178,House 43190682,Double Storey 4 Bedrooms Residence House Available For Rent. .,House,For Rent,4,4,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,600000,28/12/2022
+179,House 36996591,New Executive House For Rent F-7,House,For Rent,4,3,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,600000,28/12/2022
+180,House 42181159,Modern New House For Rent,House,For Rent,6,9,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,1700000,28/12/2022
+181,House 42030739,Branded Modern House For Rent,House,For Rent,6,5,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,1600000,28/12/2022
+182,House 42181158,Brand New Furnished. House For Rent F-7,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",24.0,F-7,1200000,28/12/2022
+183,Flat 42923795,2000 Square Feet Flat Is Available For rent In The Royal Mall and Residency,Flat,For Rent,-,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",8.9 ,Bahria Town,200000,27/12/2022
+184,Flat 42923798,A Centrally Located Flat Is Available For rent In Islamabad,Flat,For Rent,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",4.2 ,Bahria Town,50000,27/12/2022
+185,Flat 42923800,Flat Available For rent In The Royal Mall and Residency,Flat,For Rent,-,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",9.3 ,Bahria Town,70000,27/12/2022
+186,Flat 42923831,Avail Yourself A Great 1700 Square Feet Flat In The Royal Mall and Residency,Flat,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.6 ,Bahria Town,85000,27/12/2022
+187,Flat 42950828,Fully Furnished Flat In Mustafa Tower,Flat,For Rent,3,3,Islamabad,"F-10, Islamabad, Islamabad Capital",5.3 ,F-10,200000,26/12/2022
+188,Flat 42958402,Fully Furnished Flat Available For Rent E11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",3.8 ,E-11,200000,26/12/2022
+189,Flat 42288792,3 Bedroom Flat In Askari Tower 3 Dha 5,Flat,For Rent,4,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",12.9 ,DHA Defence,50000,26/12/2022
+190,Flat 42601797,Fully Furnished Two Bedroom For Rent Dha Phase 2 Islamabad,Flat,For Rent,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",4.9 ,DHA Defence,65000,26/12/2022
+191,Flat 42807166,3 Bed Room Apartment Available For Rent in Askari Tower 2,Flat,For Rent,4,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",11.8 ,DHA Defence,75000,26/12/2022
+192,Flat 42923844,Get A 2100 Square Feet Flat For rent In The Royal Mall and Residency,Flat,For Rent,-,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",9.3 ,Bahria Town,70000,26/12/2022
+193,Flat 42923870,1700 Square Feet Flat In The Royal Mall and Residency,Flat,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.6 ,Bahria Town,85000,26/12/2022
+194,Flat 42253391,2 Bed With Servant Quarter Apartment For Rent In The Royal Mall And Residency,Flat,For Rent,-,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",9.3 ,Bahria Town,70000,26/12/2022
+195,Flat 42565240,One Bed Furnished  Flat For Rent,Flat,For Rent,1,1,Islamabad,"F-11, Islamabad, Islamabad Capital",3.6 ,F-11,70000,28/12/2022
+196,Flat 41732012,One Bed Fully Furnished Tv Lounge Bathroom Air Condition For One Day Two Day Three Day Etc One Day Rent 7thousans Two Days Rent 12thousand,Flat,For Rent,1,1,Islamabad,"F-11, Islamabad, Islamabad Capital",3.8 ,F-11,80000,28/12/2022
+197,Flat 43173031,New Sami Furnished 1st Floor Apartment For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4.9 ,E-11,75000,28/12/2022
+198,Flat 41596902,Diplomatic enclave apartment,Flat,For Rent,3,3,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",8 ,Diplomatic Enclave,300000,28/12/2022
+199,Flat 43089793,2 Bedroom Apartment For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4.4 ,E-11,50000,27/12/2022
+200,Flat 43191667,Flat For rent Situated In E-11,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,200000,28/12/2022
+201,Flat 43191666,Investors Should rent This Flat Located Ideally In E-11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,28/12/2022
+202,Flat 43191665,1600 Square Feet Flat Available For rent In E-11,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,200000,28/12/2022
+203,Flat 43191664,1250 Square Feet Flat Up For rent In E-11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,28/12/2022
+204,Flat 43191663,Avail Yourself A Great 1600 Square Feet Flat In E-11,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,200000,28/12/2022
+205,Flat 43191662,A Great Choice For A 1250 Square Feet Flat Available In E-11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,28/12/2022
+206,Flat 43191661,1600 Square Feet Flat For rent In The Perfect Location Of E-11,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,200000,28/12/2022
+207,Flat 43191660,E-11 Flat Sized 1250 Square Feet For rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,28/12/2022
+208,Flat 42888010,4 Bedroom Askari Towers 2 Apartment For Sale,Flat,For Sale,4,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",14 ,DHA Defence,40000000,27/12/2022
+209,Flat 42742989,Luxury Five Star Hotel Suites Flat In Signature Hotel & Residence Flat By J7 Top City 1,Flat,For Sale,1,1,Islamabad,"Top City 1, Islamabad, Islamabad Capital",1 ,Top City 1,7500000,27/12/2022
+210,Flat 42702307,Luxury Five Star Hotel Suites In Signature Hotel & Residence Flat By J7,Flat,For Sale,1,1,Islamabad,"Top City 1, Islamabad, Islamabad Capital",1 ,Top City 1,8200000,27/12/2022
+211,Flat 42923868,Ideally Located Flat For sale In The Royal Mall and Residency Available,Flat,For Sale,2,2,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5.6 ,Bahria Town,20000000,27/12/2022
+212,Flat 41172660,Three Bed Luxury Semi Furnished And Furnished Apartment For Sale In Gulberg Marin Islamabad,Flat,For Sale,3,3,Islamabad,"Gulberg, Islamabad, Islamabad Capital",8.3 ,Gulberg,30000000,27/12/2022
+213,Flat 34840047,Studio Apartment For Sale In J7 Emporium,Flat,For Sale,1,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3.1 ,B-17,6800000,24/12/2022
+214,Flat 35348245,1000 Square Feet Flat In Soan Garden Is Best Option,Flat,For Sale,2,2,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",4.4 ,Soan Garden,3800000,23/12/2022
+215,Flat 43060879,2 Bed Apartment Available For Sale In Gulberg Civic Center,Flat,For Sale,-,2,Islamabad,"Gulberg, Islamabad, Islamabad Capital",3.2 ,Gulberg,7500000,23/12/2022
+216,Flat 43002062,2 Beds Apartment One Constitution Avenue Rawal Lake View,Flat,For Sale,3,2,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",7.3 ,Constitution Avenue,80000000,23/12/2022
+217,Flat 43071130,1 Bed Room Apartment For Sale,Flat,For Sale,1,1,Islamabad,"B-17, Islamabad, Islamabad Capital",1.6 ,B-17,3400000,22/12/2022
+218,Flat 43169627,Best Investment Opportunity Studio Flat For Sale,Flat,For Sale,1,-,Islamabad,"Top City 1, Islamabad, Islamabad Capital",1.3 ,Top City 1,10000000,27/12/2022
+219,Flat 43100853,This Is Your Chance To Buy Flat In F-6,Flat,For Sale,1,1,Islamabad,"F-6, Islamabad, Islamabad Capital",4.5 ,F-6,60000000,27/12/2022
+220,Flat 42972717,In E-11/1 Flat For sale Sized 1900 Square Feet,Flat,For Sale,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",8.4 ,E-11,40000000,27/12/2022
+221,Flat 43166105,One Bedroom Luxurious Apartment In Rania Heights Zaraj Housing Scheme,Flat,For Sale,1,1,Islamabad,"Zaraj Housing Scheme, Islamabad, Islamabad Capital",2.4 ,Zaraj Housing Scheme,7200000,27/12/2022
+222,Flat 43072141,2 Bedrooms Apartment Mehraban Tower Faisal Town,Flat,For Sale,2,2,Islamabad,"Faisal Town - F-18, Islamabad, Islamabad Capital",3.9 ,Faisal Town - F-18,7000000,27/12/2022
+223,Flat 43003790,Ideal Flat For sale In MPCHS - Multi Gardens,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",6.2 ,B-17,10000000,28/12/2022
+224,Flat 43003791,Flat Available For sale In MPCHS - Multi Gardens,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",4.7 ,B-17,6500000,28/12/2022
+225,Flat 43003792,1150 Square Feet Flat Available For sale In MPCHS - Multi Gardens,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",5.1 ,B-17,6500000,28/12/2022
+226,Flat 43003793,MPCHS - Multi Gardens Flat Sized 750 Square Feet,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3.3 ,B-17,10000000,28/12/2022
+227,Flat 43003794,Flat Sized 750 Square Feet Is Available For sale In MPCHS - Multi Gardens,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3.3 ,B-17,10000000,28/12/2022
+228,Flat 43003795,750 Square Feet Flat Ideally Situated In MPCHS - Multi Gardens,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3.3 ,B-17,4500000,28/12/2022
+229,Flat 43003796,Flat For sale In Islamabad,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",6.2 ,B-17,10000000,28/12/2022
+230,Flat 43003799,In MPCHS - Multi Gardens Flat Sized 1050 Square Feet For sale,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",4.7 ,B-17,6500000,28/12/2022
+231,House 42849072,House Available For Sale C-1 Size 5 Marla In Multi Gardens B-17 Islamabad,House,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",5 ,B-17,20000000,26/12/2022
+232,House 42711532,Brand New 10 Marla 4 Bed Designer House,House,For Sale,4,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10 ,DHA Defence,60000000,26/12/2022
+233,House 42944332,Extra Land Three Sides Corner Fully Furnished House,House,For Sale,7,6,Islamabad,"F-8, Islamabad, Islamabad Capital",26.0,F-8,320000000,26/12/2022
+234,House 41725194,1st Avenue Main Boulevard Solid Land Beautiful House For Urgent Sale,House,For Sale,6,7,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,80000000,26/12/2022
+235,House 42887476,12 Marla Double Storey House For Sale,House,For Sale,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",12 ,I-8,90000000,26/12/2022
+236,House 42897728,E-11/3 Multi Modern 1st Entry Triple Storey 7 Bed Rooms House For Sale,House,For Sale,6,7,Islamabad,"E-11, Islamabad, Islamabad Capital",20.0,E-11,160000000,26/12/2022
+237,House 43143698,A House Of 10 Marla In G-13,House,For Sale,6,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,60000000,26/12/2022
+238,House 39812710,14 Marla Corner Three Separate Portion House Available For Sale In G-16 Islamabad.,House,For Sale,10,9,Islamabad,"G-16, Islamabad, Islamabad Capital",14 ,G-16,70000000,26/12/2022
+239,House 43139796,House For Sale In F 8 Islamabad,House,For Sale,6,6,Islamabad,"F-8, Islamabad, Islamabad Capital",32.0,F-8,320000000,26/12/2022
+240,House 42934986,"Reasonably-Priced Prime Location 3200 Square Feet House In G-13 4, Islamabad Is Available As Of Now",House,For Sale,7,7,Islamabad,"G-13, Islamabad, Islamabad Capital",14.2 ,G-13,90000000,26/12/2022
+241,House 41985368,4 Marla House For Sale In G-13 Islamabad,House,For Sale,5,4,Islamabad,"G-13, Islamabad, Islamabad Capital",4.4 ,G-13,30000000,28/12/2022
+242,House 42496450,4 Marla Luxury Cornar House For Sale In G-13 Islamabad,House,For Sale,5,4,Islamabad,"G-13, Islamabad, Islamabad Capital",4 ,G-13,40000000,28/12/2022
+243,House 42811190,A Stunning House Is Up For Grabs In I-8 I-8,House,For Sale,-,7,Islamabad,"I-8, Islamabad, Islamabad Capital",24.0,I-8,180000000,28/12/2022
+244,House 42716615,Triple Storey House Available For Sale In I-9,House,For Sale,6,7,Islamabad,"I-9, Islamabad, Islamabad Capital",9.3 ,I-9,50000000,28/12/2022
+245,House 42551176,Get In Touch Now To Buy A 600 Square Yards House In I-8/3 Islamabad,House,For Sale,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",24.0,I-8,180000000,28/12/2022
+246,House 42708826,"Ideal 2800 Square Feet House has landed on market in I-8/2, Islamabad",House,For Sale,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",12.4 ,I-8,110000000,28/12/2022
+247,House 42708828,Highly-coveted 2800 Square Feet House Is Available In I-8/2 For sale,House,For Sale,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",12.4 ,I-8,90000000,28/12/2022
+248,House 43152938,2800 Square Feet House For sale In Soan Garden,House,For Sale,6,6,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",12.4 ,Soan Garden,40000000,28/12/2022
+249,House 43152939,Get In Touch Now To Buy A 1 Kanal House In Soan Garden,House,For Sale,6,6,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,70000000,28/12/2022
+250,House 43152929,Looking For A House In Soan Garden Soan Garden,House,For Sale,6,6,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,70000000,28/12/2022
+251,House 43191723,E11.3 Multi Society Very Beautiful House For Sale,House,For Sale,6,8,Islamabad,"E-11, Islamabad, Islamabad Capital",20.0,E-11,140000000,28/12/2022
+252,House 43152925,1500 Square Feet House Up For sale In Soan Garden,House,For Sale,4,4,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",6.7 ,Soan Garden,20000000,28/12/2022
+253,House 43152917,House Of 1 Kanal Is Available For sale,House,For Sale,7,7,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,50000000,28/12/2022
+254,House 43152928,2800 Square Feet House For sale In Soan Garden,House,For Sale,6,6,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",12.4 ,Soan Garden,40000000,28/12/2022
+255,House 43191700,E11.1 Federation Society (30x60) Double Storey House For Sale With Side Extra Land,House,For Sale,5,5,Islamabad,"E-11, Islamabad, Islamabad Capital",8 ,E-11,50000000,28/12/2022
+256,House 43028644,I-8/3 3200 Square Feet House Up For rent,House,For Rent,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",14.2 ,I-8,300000,25/12/2022
+257,House 42420279,Elegant 1 Kanal Full House For Rent,House,For Rent,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,300000,24/12/2022
+258,House 42627929,8 MARLA HOUSE FOR RENT  D-12/1,House,For Rent,5,5,Islamabad,"D-12, Islamabad, Islamabad Capital",8 ,D-12,200000,24/12/2022
+259,House 43102987,Dha Phase 5 Sector F Kanal Brand New House Available For Rent,House,For Rent,7,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,200000,23/12/2022
+260,House 42000467,Sector N 5 Marla House For Rent,House,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,80000,22/12/2022
+261,House 43019744,1 KANAL full House for Rent in DHA phase 2,House,For Rent,5,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,300000,27/12/2022
+262,House 43015493,Brand  New 6 Bedroom  Full House For Rent In Dha Phase 5,House,For Rent,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,200000,27/12/2022
+263,House 43000996,Beautiful House For Rent In F-11,House,For Rent,4,4,Islamabad,"F-11, Islamabad, Islamabad Capital",20.0,F-11,300000,27/12/2022
+264,House 42998538,Beautiful Single Store House For Rent,House,For Rent,5,5,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,900000,27/12/2022
+265,House 42967541,Old Construction Full House Available In F-8 Islamabad,House,For Rent,4,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,400000,27/12/2022
+266,House 42790448,8 Marla Full House Available For Rent In Dha Phase 2,House,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",8 ,DHA Defence,90000,27/12/2022
+267,House 42966385,House Available For Rent,House,For Rent,6,6,Islamabad,"F-11, Islamabad, Islamabad Capital",18 ,F-11,400000,26/12/2022
+268,House 42589957,Prime Location New House For Rent In F. 7 Islamabad,House,For Rent,-,8,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,900000,27/12/2022
+269,House 42635854,Prime Location New House For Rent In F. 8 Islamabad,House,For Rent,6,5,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,600000,27/12/2022
+270,House 42651507,Prime Location Brand New House For Rent In F. 7. islamabad,House,For Rent,6,6,Islamabad,"F-7, Islamabad, Islamabad Capital",24.0,F-7,800000,27/12/2022
+271,House 42580298,Like Brand New 5 Beds Luxury House For Rent in E7,House,For Rent,6,5,Islamabad,"E-7, Islamabad, Islamabad Capital",32.0,E-7,1000000,27/12/2022
+272,House 42580635,Like Brand New 5 Beds Luxury House For Rent In F7,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,900000,27/12/2022
+273,House 42548881,New Luxurious House For Rent,House,For Rent,6,5,Islamabad,"E-7, Islamabad, Islamabad Capital",24.0,E-7,1000000,28/12/2022
+274,House 42893532,New Luxurious Furnished House For Rent  Independent,House,For Rent,2,2,Islamabad,"E-7, Islamabad, Islamabad Capital",20.0,E-7,300000,28/12/2022
+275,House 43161199,Branded Lavish House For Rent,House,For Rent,6,9,Islamabad,"E-7, Islamabad, Islamabad Capital",26.0,E-7,2200000,28/12/2022
+276,House 43132226,Old Construction Renovated Double Storey House Is Available For Rent In F 7 Islamabad,House,For Rent,6,6,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,1100000,28/12/2022
+277,House 43097721,Renovated Triple Storey House Is Available For Rent In F 7,House,For Rent,-,-,Islamabad,"F-7, Islamabad, Islamabad Capital",80.0,F-7,3200000,28/12/2022
+278,House 43132224,1200 Sq Yd 4 Unit House For Rent In F-8 Islamabad,House,For Rent,-,-,Islamabad,"F-8, Islamabad, Islamabad Capital",48.0,F-8,2800000,28/12/2022
+279,House 43132225,666 Sq Yard Double Storey House With Basement For Rent At Ideal Location Of F 7,House,For Rent,6,6,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,1400000,28/12/2022
+280,House 43097719,Renovated Triple Storey House Is Available For Rent In F 7 Islamabad,House,For Rent,7,7,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,800000,28/12/2022
+281,Flat 41551115,Two Bedrooms Luxury Non-furnished Apartments Available For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",7.8 ,E-11,200000,26/12/2022
+282,Flat 42269899,Luxury Furnished 2 Bhk For Rent Diamond Mall Gulberg Greens Islamabad,Flat,For Rent,2,2,Islamabad,"Gulberg, Islamabad, Islamabad Capital",3.2 ,Gulberg,85000,26/12/2022
+283,Flat 41771363,Two Bedrooms  Non-furnished Apartment Available For Rent In E-11 Islamabad,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,65000,26/12/2022
+284,Flat 42546634,2 Bedroom Furnished Flat Available In E 11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4.4 ,E-11,70000,26/12/2022
+285,Flat 42480123,1 Bed Luxury Apartment For Rent,Flat,For Rent,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2 ,Bahria Town,35000,25/12/2022
+286,Flat 40745705,Brand New 3 Beds Apartment For Rent In Oca,Flat,For Rent,3,3,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",13.3 ,Constitution Avenue,400000,25/12/2022
+287,Flat 41713157,Beautiful Newly Furnished Apartment Available For Rent In Zaraj Housing Scheme,Flat,For Rent,2,2,Islamabad,"Zaraj Housing Scheme, Islamabad, Islamabad Capital",3.8 ,Zaraj Housing Scheme,75000,25/12/2022
+288,Flat 42759538,3 Bed Askari Towers 2 Apartment For Rent,Flat,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",11 ,DHA Defence,75000,25/12/2022
+289,Flat 42048294,1 Bed Apartment Available For Rent In Gulberg Arena Mall & Residency,Flat,For Rent,1,1,Islamabad,"Gulberg, Islamabad, Islamabad Capital",3.1 ,Gulberg,35000,25/12/2022
+290,Flat 42699341,One Bed Fully Furnished Apartment Available For Rent E11,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.7 ,E-11,60000,25/12/2022
+291,Flat 42632363,Beautiful Flat Available For Rent In E-11 Capital Residence Islamabad!,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,200000,24/12/2022
+292,Flat 41596672,One Bed Room Furnished Apartment Available For Rent In E-11 Islamabad,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.3 ,E-11,75000,24/12/2022
+293,Flat 43046933,Veranda Razidencea 2 Bed Room Apartment For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",7.3 ,E-11,100000,27/12/2022
+294,Flat 43168063,DHA II Islamabad Brand New 3 bed Appartment available for in only 45000,Flat,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",6.3 ,DHA Defence,45000,27/12/2022
+295,Flat 43160656,2 bedroom  Fully Furnished Appartment For Rent,Flat,For Rent,2,2,Islamabad,"Gulberg, Islamabad, Islamabad Capital",4.4 ,Gulberg,80000,27/12/2022
+296,Flat 41043418,Two Bed Appointment Available For Rent In Capital Residencia Is Good Location marghla view.,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,55000,27/12/2022
+297,Flat 43069858,1 Bedroom Luxury Furnished Apartment Available For Rent In E-11,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",5.3 ,E-11,80000,27/12/2022
+298,Flat 41549867,E11 2 Bedroom Unfurnished Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.1 ,E-11,55000,28/12/2022
+299,Flat 42561741,E11 2 Bedroom Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,90000,28/12/2022
+300,Flat 43112511,Two Bedroom Luxury Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,200000,28/12/2022
+301,Flat 43112240,One Bedroom Unfurnished Apartment Available For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.9 ,E-11,30000,28/12/2022
+302,Flat 43108952,One Bedroom Furnished Apartment Available For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.6 ,E-11,75000,28/12/2022
+303,Flat 43113140,One Bedroom Luxury Apartment Available For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.8 ,E-11,80000,28/12/2022
+304,Flat 43113626,Three Bedroom Furnished Apartment Available For Rent,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.1 ,E-11,80000,28/12/2022
+305,Flat 43168754,3 Bedroom Furnished Apartment Available,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,200000,28/12/2022
+306,Flat 42782992,234 Sqft Flat for sale in Five Star hotel chain Islamabad,Flat,For Sale,1,1,Islamabad,"Top City 1, Islamabad, Islamabad Capital",1 ,Top City 1,7500000,26/12/2022
+307,Flat 42419997,LUXURY-APARTMENTS AVAILABLE FOR SALE - GULBERG GREEN ISLAMABAD,Flat,For Sale,-,-,Islamabad,"Gulberg, Islamabad, Islamabad Capital",5.4 ,Gulberg,20000000,26/12/2022
+308,Flat 42633639,"Property For sale In Bahria Enclave - Sector H Islamabad Is Available Under Rs. 7,009,500",Flat,For Sale,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2.1 ,Bahria Town,7100000,26/12/2022
+309,Flat 42551597,1 Bed For Flat Sale In Akas Mall 960 Sq Ft On 4th Floor,Flat,For Sale,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",4.3 ,Bahria Town,7500000,26/12/2022
+310,Flat 42781999,"291 Square Feet hotel suite For sale In Top City 1, Signature 5Star Hotels",Flat,For Sale,1,1,Islamabad,"Top City 1, Islamabad, Islamabad Capital",1.3 ,Top City 1,9400000,26/12/2022
+311,Flat 41923741,Al Ghurair Giga Defence Executive Apartment 1 Bed Brand New Apartment,Flat,For Sale,1,1,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.5 ,DHA Defence,8000000,22/12/2022
+312,Flat 43027226,One Bedroom Luxury Furnished Apartment For Sale In E11 Islamabad.,Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.8 ,E-11,20000000,22/12/2022
+313,Flat 41615780,One Bed Apartment Available For Sale On Easy Installment In B-17 Islamabad,Flat,For Sale,1,1,Islamabad,"B-17, Islamabad, Islamabad Capital",1.5 ,B-17,2800000,27/12/2022
+314,Flat 42874849,Investor Price Flat For Sale,Flat,For Sale,3,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.3 ,G-11,30000000,27/12/2022
+315,Flat 43039881,Makha Tower Fully Furnished One Bed Room Apartment For Sale,Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.8 ,E-11,20000000,27/12/2022
+316,Flat 43101053,Flat For sale In Jinnah Avenue,Flat,For Sale,1,1,Islamabad,"Jinnah Avenue, Islamabad, Islamabad Capital",4.5 ,Jinnah Avenue,60000000,27/12/2022
+317,Flat 43101059,1434 Square Feet Flat available for sale in Jinnah Avenue if you hurry,Flat,For Sale,2,2,Islamabad,"Jinnah Avenue, Islamabad, Islamabad Capital",6.4 ,Jinnah Avenue,80000000,27/12/2022
+318,Flat 43003801,Stunning 1150 Square Feet Flat In MPCHS - Multi Gardens Available,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",5.1 ,B-17,6500000,28/12/2022
+319,Flat 42561681,E11 2 Bedroom Apartment Available For Sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,20000000,28/12/2022
+320,Flat 42972261,Two Bedroom Apartment Available For Sale In E11,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4.9 ,E-11,20000000,28/12/2022
+321,Flat 43109149,Two Bedroom Apartment Available For Sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,20000000,28/12/2022
+322,Flat 42995219,2 Bed Ready To Move Lush Apartment Available For Sale,Flat,For Sale,2,2,Islamabad,"Gulberg, Islamabad, Islamabad Capital",4.8 ,Gulberg,20000000,28/12/2022
+323,Flat 41271364,5 Star Hotel Luxury Suite For Sale In Signature Hotel By J7,Flat,For Sale,-,-,Islamabad,"Blue Area, Islamabad, Islamabad Capital",0.9 ,Blue Area,6300000,28/12/2022
+324,Flat 43190789,E-11/3 Multi Out Class Multi Out Class 2 Bed Flat Available For Sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",3.3 ,E-11,20000000,28/12/2022
+325,Flat 43162258,G-5 2777 Square Feet Flat Up For sale,Flat,For Sale,3,3,Islamabad,"G-5, Islamabad, Islamabad Capital",12.3 ,G-5,130000000,28/12/2022
+326,House 42652691,Ultra Modern House  for sale with beautiful view,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,26/12/2022
+327,House 42554755,10 Marla Luxury House With Basement For Sale In Bahria Enclave Islamabad,House,For Sale,6,7,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,50000000,26/12/2022
+328,House 41013744,Owner Built 1 Kanal Luxury House For Sale In Dha Phase Ii,House,For Sale,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,25/12/2022
+329,House 39949327,10 Marla Villa For Sale In Margalla Hills Islamabad,House,For Sale,4,4,Islamabad,"Shah Allah Ditta, Islamabad, Islamabad Capital",10 ,Shah Allah Ditta,30000000,25/12/2022
+330,House 39714412,Brand New House Available For Sale In Dha Phase 2,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,25/12/2022
+331,House 42722004,Reserve A House Now In G-11/1,House,For Sale,4,4,Islamabad,"G-11, Islamabad, Islamabad Capital",6.7 ,G-11,50000000,26/12/2022
+332,House 42722005,Corner In G-9/1 3200 Square Feet House For sale,House,For Sale,5,5,Islamabad,"G-9, Islamabad, Islamabad Capital",14.2 ,G-9,80000000,26/12/2022
+333,House 42660792,I-8/3 BEAUTIFUL HOUSE 40X80 NEAR TO SHIFA HOSPITAL & KACHNAR PARK DOUBLE STORY,House,For Sale,6,6,Islamabad,"I-8, Islamabad, Islamabad Capital",14 ,I-8,90000000,25/12/2022
+334,House 43022418,Tripple Storey 1 Kanal House Available In National Police Foundation O-9 - Block A For sale,House,For Sale,-,-,Islamabad,"National Police Foundation O-9, Islamabad, Islamabad Capital",20.0,National Police Foundation O-9,50000000,25/12/2022
+335,House 42550034,Brand New Double Storey  House For Sale,House,For Sale,5,4,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",6 ,Bani Gala,20000000,25/12/2022
+336,House 42813788,10 Marla House For Sale in G-13 Islamabad,House,For Sale,7,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,60000000,28/12/2022
+337,House 43108611,10 Marla House For Sale In G-13 Islamabad,House,For Sale,7,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,70000000,28/12/2022
+338,House 43182629,Defence Villa Available For Sale,House,For Sale,4,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10 ,DHA Defence,40000000,28/12/2022
+339,House 43164723,01 Kanal Brand New Designer House in DHA 2 Sector B,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,28/12/2022
+340,House 43153646,A 10 Marla Designer House In Dha 3 At Prime Location,House,For Sale,4,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10 ,DHA Defence,60000000,28/12/2022
+341,House 42147023,1 Kanal House With Basement Is Available For Sale On Investor Rate In Dha 2 Sector B Islamabad,House,For Sale,6,7,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,70000000,28/12/2022
+342,House 43062585,1 Kanal Brand New House for Sale on (Urgent Basis) on Investor Rate in DHA 2 Sector D Islamabad,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,80000000,28/12/2022
+343,House 43191675,"F11.3,(30x70) Proper Corner House For Sale With Extra Land On 50ft Street",House,For Sale,5,5,Islamabad,"F-11, Islamabad, Islamabad Capital",10 ,F-11,90000000,28/12/2022
+344,House 43152930,Want To Buy A House In Soan Garden?,House,For Sale,6,6,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,60000000,28/12/2022
+345,House 43152932,Good 1 Kanal House For sale In Soan Garden - Block E,House,For Sale,7,7,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,50000000,28/12/2022
+346,House 43152933,Buy your ideal 1 Kanal House in a prime location of Islamabad,House,For Sale,7,7,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,50000000,28/12/2022
+347,House 43152931,A Palatial Residence For sale In Soan Garden Soan Garden,House,For Sale,5,5,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",10 ,Soan Garden,30000000,28/12/2022
+348,House 43152935,Ideally Located House For sale In Soan Garden Available,House,For Sale,4,4,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",5.6 ,Soan Garden,20000000,28/12/2022
+349,House 43152940,This Is Your Chance To Buy House In Soan Garden Soan Garden,House,For Sale,6,6,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,60000000,28/12/2022
+350,House 43152943,Spacious 10 Marla House Available For sale In Soan Garden,House,For Sale,5,5,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",10 ,Soan Garden,30000000,28/12/2022
+351,House 42956080,House Available For Rent,House,For Rent,6,6,Islamabad,"F-11, Islamabad, Islamabad Capital",20.0,F-11,400000,26/12/2022
+352,House 42173962,Luxurious 2 Kanal House With Huge Lawn Available,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,800000,26/12/2022
+353,House 42174650,Fully Renovated Modern House With Lawn Available,House,For Rent,7,5,Islamabad,"F-6, Islamabad, Islamabad Capital",26.0,F-6,1000000,26/12/2022
+354,House 42149273,Fully Renovated 4 Bedroom House With Lawn,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,800000,26/12/2022
+355,House 42173466,Like New 5 Bedroom Modern House Available,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,800000,26/12/2022
+356,House 42135155,4 Bedroom Renovated House With Big Lawn,House,For Rent,5,4,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,700000,26/12/2022
+357,House 42135801,3 Unit 8 Bedroom Renovated House Available,House,For Rent,9,8,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,1000000,26/12/2022
+358,House 42148907,FULLY RENOVATED 4 BEDROOM MODERN HOUSE,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,700000,26/12/2022
+359,House 40003369,5 Bedroom Fully Furnished House Available In F-7,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,500000,26/12/2022
+360,House 40187317,Fully Renovated 7 Bedroom House Suitable For Foreigners And Embassies,House,For Rent,8,7,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,1000000,26/12/2022
+361,House 40260962,5 Bedroom Beautiful House On Margalla Road Available For Rent,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,900000,26/12/2022
+362,House 42954599,Like New 5 Bedroom Fully Renovated House In F-8,House,For Rent,6,5,Islamabad,"F-8, Islamabad, Islamabad Capital",24.0,F-8,700000,26/12/2022
+363,House 43072046,Prime Location Excellent Brand New House Available For Rent Ideal For Foreigners-,House,For Rent,6,8,Islamabad,"F-8, Islamabad, Islamabad Capital",26.0,F-8,1500000,27/12/2022
+364,House 43072351,Prime Location Excellent House Available For Rent Ideal For Foreigners-,House,For Rent,6,6,Islamabad,"F-6, Islamabad, Islamabad Capital",19.5 ,F-6,500000,27/12/2022
+365,House 43094753,Prime Location Excellent House Available For Rent Ideal For Foreigners-,House,For Rent,5,5,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,600000,27/12/2022
+366,House 43145436,Prime Location Excellent House Available For Rent Ideal For Foreigners-,House,For Rent,6,6,Islamabad,"F-7, Islamabad, Islamabad Capital",24.0,F-7,600000,27/12/2022
+367,House 43161229,Full House For Rent4 Bedroom With Attached Bath Tv Lounge Kitchen Dd Available For Rent E-11,House,For Rent,4,4,Islamabad,"E-11, Islamabad, Islamabad Capital",7 ,E-11,200000,27/12/2022
+368,House 43097720,Brand New First Entry Triple Storey Duplex House For Rent In F 7,House,For Rent,-,-,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,3400000,28/12/2022
+369,House 43073384,800 Sqyd Brand New Triple Storey House For Rent In E 7 Islamabad,House,For Rent,-,-,Islamabad,"E-7, Islamabad, Islamabad Capital",32.0,E-7,1800000,28/12/2022
+370,House 43097715,Triple Storey House Is Available For Rent Suitable For Multinational Companies Daycare Or Schools,House,For Rent,7,7,Islamabad,"F-7, Islamabad, Islamabad Capital",22.0,F-7,700000,28/12/2022
+371,House 43097716,Prime Location 3 Kanal Single Storey House With Basement Only 1,House,For Rent,5,5,Islamabad,"F-7, Islamabad, Islamabad Capital",60.0,F-7,1100000,28/12/2022
+372,House 43072223,600 Sq Yd Double Storey House For Rent In F 7,House,For Rent,-,-,Islamabad,"F-7, Islamabad, Islamabad Capital",24.0,F-7,600000,28/12/2022
+373,House 43072221,1.5 Kanal Double Storey House Available For Rent I 8 Islamabad,House,For Rent,-,-,Islamabad,"I-8, Islamabad, Islamabad Capital",30.0,I-8,600000,28/12/2022
+374,House 43072218,2 Kanal Triple Storey House With Swimming Pool Available For Companies Families Bani Gala,House,For Rent,-,-,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",40.0,Bani Gala,500000,28/12/2022
+375,House 43027908,18 Marla Fully Renovated Double Storey House Available for Rent F 11,House,For Rent,6,6,Islamabad,"F-11, Islamabad, Islamabad Capital",18 ,F-11,400000,28/12/2022
+376,Flat 41623057,One Bedroom Luxury Furnished Apartment Available For Rent In E-11 Islamabad,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.8 ,E-11,90000,24/12/2022
+377,Flat 39641257,One Bedroom Luxury Furnished Apartment Available For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.3 ,E-11,80000,24/12/2022
+378,Flat 39767091,Two Bedroom Furnished Apartment Available For Rent In E-11 Islamabad,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,200000,24/12/2022
+379,Flat 42253662,3 Bed Apartment With Servant Quarter For Rent In The Royal Mall And Residency,Flat,For Rent,-,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.6 ,Bahria Town,85000,24/12/2022
+380,Flat 43103930,2 Bed Tv Lounge Flat For Rent In Defense Residency Dha 2 Gate 2 Islamabad,Flat,For Rent,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",4.2 ,DHA Defence,35000,28/12/2022
+381,Flat 43158495,Fully furnished Apartment for rent in Diplomatic enclave,Flat,For Rent,2,2,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",7.8 ,Diplomatic Enclave,400000,27/12/2022
+382,Flat 42809961,Fully Furnished Apartment For Rent Is Available In Diplomatic Enclave,Flat,For Rent,2,2,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",8 ,Diplomatic Enclave,300000,25/12/2022
+383,Flat 42764783,Fully Furnished Apartment Is Available For Rent In Diplomatic Enclave,Flat,For Rent,3,3,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",8.9 ,Diplomatic Enclave,300000,25/12/2022
+384,Flat 42790185,Fully Furnished Apartment For Rent In Diplomatic Enclave Is Available,Flat,For Rent,2,2,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",7.6 ,Diplomatic Enclave,300000,25/12/2022
+385,Flat 42763845,Fully Furnished Apartment For Rent Is Available In OCA,Flat,For Rent,3,2,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",7.3 ,Constitution Avenue,300000,25/12/2022
+386,Flat 42764648,Fully Furnished Apartment Is Available For Rent In OCA,Flat,For Rent,1,1,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",3.6 ,Constitution Avenue,200000,25/12/2022
+387,Flat 42641424,Beautiful 3 Bed Apartment Available For Rent In The Centaurus,Flat,For Rent,3,3,Islamabad,"F-8, Islamabad, Islamabad Capital",12 ,F-8,500000,25/12/2022
+388,Flat 41368671,Luxury Apartment Available On Rent,Flat,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.5 ,Bahria Town,70000,27/12/2022
+389,Flat 42843345,2 Bed Business Bay Apartment Available For Rent In Sec F Dha 1,Flat,For Rent,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",6.1 ,DHA Defence,70000,27/12/2022
+390,Flat 42197603,Fully Furnished Apartments Available For Rent In Gulberg Green Islamabad,Flat,For Rent,1,1,Islamabad,"Gulberg, Islamabad, Islamabad Capital",2.7 ,Gulberg,50000,27/12/2022
+391,Flat 42031735,Compact 2 Bedroom Un-furnished Apartment In Centaurus,Flat,For Rent,2,2,Islamabad,"F-8, Islamabad, Islamabad Capital",7.1 ,F-8,200000,27/12/2022
+392,Flat 42770969,Brand New Flat For Rent,Flat,For Rent,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",4 ,DHA Defence,45000,27/12/2022
+393,Flat 41567616,New Luxurious Apartment For Rent Oca,Flat,For Rent,4,3,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",12.4 ,Constitution Avenue,400000,28/12/2022
+394,Flat 38098857,New Lavish Furnished Apartment For Rent,Flat,For Rent,4,3,Islamabad,"Karakoram Diplomatic Enclave, Islamabad, Islamabad Capital",12.4 ,Karakoram Diplomatic Enclave,500000,28/12/2022
+395,Flat 37307485,Brand New Lavish Furnished Apartment For Rent,Flat,For Rent,3,2,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",7.6 ,Constitution Avenue,300000,28/12/2022
+396,Flat 43161280,New Luxurious Apartment For Rent,Flat,For Rent,4,3,Islamabad,"E-7, Islamabad, Islamabad Capital",24.0,E-7,800000,28/12/2022
+397,Flat 43097718,Fully Furnished Studio Apartment Available For Rent In Centaurus Islamabad,Flat,For Rent,1,-,Islamabad,"F-8, Islamabad, Islamabad Capital",3 ,F-8,200000,28/12/2022
+398,Flat 43072222,1400 Sqft Brand New Fully Furnished Margalla View Apartment For Rent In E-11 Islamabad,Flat,For Rent,-,-,Islamabad,"F-8, Islamabad, Islamabad Capital",6.2 ,F-8,200000,28/12/2022
+399,Flat 43028180,1650 SQFT Brand New unfurnished Apartment Available for Rent Constitution Avenue,Flat,For Rent,2,2,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",7.3 ,Constitution Avenue,400000,28/12/2022
+400,Flat 43189722,1 Bedroom Apartment Available For Rent in F11 Markaz Islamabad,Flat,For Rent,1,1,Islamabad,"F-11, Islamabad, Islamabad Capital",5.3 ,F-11,92000,28/12/2022
+401,Flat 42612956,Flat Of 499.4 Square Feet In Bahria Enclave - Sector H For sale,Flat,For Sale,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2.2 ,Bahria Town,10000000,26/12/2022
+402,Flat 42723482,Looking For A Flat In Bahria Enclave - Sector H Islamabad,Flat,For Sale,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2.1 ,Bahria Town,7300000,26/12/2022
+403,Flat 42723426,Book A Flat Of 467.3 Square Feet In Bahria Enclave - Sector H Islamabad,Flat,For Sale,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2.1 ,Bahria Town,7100000,26/12/2022
+404,Flat 42839755,One Bed Apartment For Sale In Capital Residencia.,Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.7 ,E-11,9000000,26/12/2022
+405,Flat 42789039,Signature Murree Resort,Flat,For Sale,1,1,Islamabad,"Murree Road, Islamabad, Islamabad Capital",1 ,Murree Road,7500000,26/12/2022
+406,Flat 40368374,3 Bed Corner Apartment Size A On Installments - Five Star Residence,Flat,For Sale,3,3,Islamabad,"G-11, Islamabad, Islamabad Capital",8.4 ,G-11,40000000,27/12/2022
+407,Flat 40367922,2 Bed Rooms Non Corner Apartment Type A On Installments - Five Star Residence,Flat,For Sale,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.2 ,G-11,40000000,27/12/2022
+408,Flat 42619181,Askri Appartment For Sale Tower 3 Brand New 4bed Appartment Dha 5 Islamabad,Flat,For Sale,5,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",15.6 ,DHA Defence,40000000,27/12/2022
+409,Flat 42912472,FULLY FURNISHED 2BEDROOM APARTMENT FOR SALE,Flat,For Sale,3,2,Islamabad,"Karakoram Diplomatic Enclave, Islamabad, Islamabad Capital",9.2 ,Karakoram Diplomatic Enclave,70000000,27/12/2022
+410,Flat 42940197,551 Square Feet Flat Situated In Rania Heights For sale,Flat,For Sale,1,1,Islamabad,"Zaraj Housing Scheme, Islamabad, Islamabad Capital",2.4 ,Zaraj Housing Scheme,6900000,27/12/2022
+411,Flat 43101302,Flat Available For sale In Blue Area,Flat,For Sale,2,2,Islamabad,"Blue Area, Islamabad, Islamabad Capital",6.4 ,Blue Area,80000000,27/12/2022
+412,Flat 43101265,A Perfect Flat Awaits You In Blue Area Blue Area,Flat,For Sale,1,1,Islamabad,"Blue Area, Islamabad, Islamabad Capital",4.5 ,Blue Area,60000000,27/12/2022
+413,Flat 43190626,"Beautiful 4 Bed corner, park face Apartment available for sale in F-11",Flat,For Sale,4,4,Islamabad,"F-11, Islamabad, Islamabad Capital",14.2 ,F-11,50000000,28/12/2022
+414,Flat 43190629,Double Bed Semi Furnished Apartment Available For Sale at Reasonable Demand,Flat,For Sale,2,2,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",2.9 ,Soan Garden,6000000,28/12/2022
+415,Flat 38855424,Lavish Apartment For Sale OCA,Flat,For Sale,5,4,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",19.6 ,Constitution Avenue,180000000,28/12/2022
+416,Flat 43190139,Modern Apartment In Executive Heights F-11 Islamabad,Flat,For Sale,4,4,Islamabad,"F-11, Islamabad, Islamabad Capital",16 ,F-11,60000000,28/12/2022
+417,Flat 43189882,Stunning Apartment In Executive Heights F-11 Islamabad,Flat,For Sale,4,4,Islamabad,"F-11, Islamabad, Islamabad Capital",16 ,F-11,60000000,28/12/2022
+418,Flat 43145789,E11 One Bedroom Fully Furnished Apartment Available For Sale in Ahad Residencia,Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",5.1 ,E-11,20000000,28/12/2022
+419,Flat 43145498,E11 Three Bedroom Abdullah Heights Luxury Fully Furnished Apartment Available For Sale in Islamabad,Flat,For Sale,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",5.1 ,E-11,20000000,28/12/2022
+420,Flat 43069702,E11 Two Bedroom Neelum Apartment Fully Furnished Available For Sale In Islamabad,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.3 ,E-11,20000000,28/12/2022
+421,House 40632757,10 Marla House For Sale In Dha Phase 2,House,For Sale,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10 ,DHA Defence,50000000,25/12/2022
+422,House 42754155,Your Dream 5 Marla House Is Available In Bahria Enclave - Sector B1,House,For Sale,5,4,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,30000000,25/12/2022
+423,House 42743000,"One Kanal Beautifully Designer Build House In Dha Phase 2, Islamabad",House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,25/12/2022
+424,House 42032050,Modern Brand New Swimming Pool House Is For Sale,House,For Sale,7,6,Islamabad,"E-7, Islamabad, Islamabad Capital",32.0,E-7,580000000,25/12/2022
+425,House 42734145,15 Marla Brand New House With Dam And Maragalla Hills View,House,For Sale,6,5,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",15 ,Bani Gala,50000000,25/12/2022
+426,House 42716128,Brand New 5 Marla Luxurious House Back Open In Reasonable Price,House,For Sale,3,2,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,30000000,24/12/2022
+427,House 43116520,30x60 7 Marla Brand New Proper Corner House For Sale G-13/1,House,For Sale,5,5,Islamabad,"G-13, Islamabad, Islamabad Capital",7 ,G-13,50000000,24/12/2022
+428,House 43116477,Fully Furnished New House With Handsome Rental Yield,House,For Sale,-,6,Islamabad,"F-7, Islamabad, Islamabad Capital",22.0,F-7,290000000,24/12/2022
+429,House 43077132,"10 Marla, Designer House In Top City- Block A.",House,For Sale,6,6,Islamabad,"Top City 1, Islamabad, Islamabad Capital",10 ,Top City 1,50000000,24/12/2022
+430,House 42875299,Double Story Beautiful House For Sale,House,For Sale,6,6,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",14.5 ,Bani Gala,40000000,24/12/2022
+431,House 43108933,10 Marla Luxury House For Sale In G-13 Islamabad,House,For Sale,7,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,60000000,28/12/2022
+432,House 43109079,10 Marla Luxury House For Sale In G-13 Islamabad,House,For Sale,7,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,70000000,28/12/2022
+433,House 43063568,1 Kanal Brand New House for Sale on (Urgent Basis) on Investor Rate in DHA 2 Sector D Islamabad,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,70000000,28/12/2022
+434,House 40016490,4 Marla Beautiful Location House For Sale D-12 3,House,For Sale,4,4,Islamabad,"D-12, Islamabad, Islamabad Capital",4 ,D-12,40000000,28/12/2022
+435,House 42395116,D-12  30/60  House For Sale,House,For Sale,6,5,Islamabad,"D-12, Islamabad, Islamabad Capital",8 ,D-12,80000000,28/12/2022
+436,House 43180877,Double Storey Brand New Corner House For Sale 6 Bedrooms With Attach 7 Bathrooms Servant Room 1 Parking 2,House,For Sale,6,6,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",8 ,Bahria Town,40000000,28/12/2022
+437,House 42715202,08 Marla House For Sale In Dha Valley Islamabad,House,For Sale,4,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",8 ,DHA Defence,20000000,28/12/2022
+438,House 43152948,House Sized 1 Kanal Is Available For sale In Soan Garden - Block F,House,For Sale,7,7,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,50000000,28/12/2022
+439,House 40853639,One Kanal Designer House Is Available For Sell In Bahria Enclave Islamabad,House,For Sale,5,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",20.0,Bahria Town,100000000,28/12/2022
+440,House 43152946,House For sale In Soan Garden - Block E,House,For Sale,7,7,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",20.0,Soan Garden,50000000,28/12/2022
+441,House 41077210,Get Your Dream House In Bahria Enclave Islamabad,House,For Sale,4,4,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,80000000,28/12/2022
+442,House 40285461,A Good Option For Sale Is The House Available In Bahria Enclave In Islamabad,House,For Sale,5,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",8 ,Bahria Town,40000000,28/12/2022
+443,House 41468291,1 Kanal Size Of Beautiful And Luxurious Spacious House Is Available For Sell In Bahria Enclave Islamabad,House,For Sale,5,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",20.0,Bahria Town,100000000,28/12/2022
+444,House 43190832,Brand New Most Modern House In F-6 Islamabad,House,For Sale,-,8,Islamabad,"F-6, Islamabad, Islamabad Capital",20.0,F-6,300000000,28/12/2022
+445,House 42502312,Beautiful House For Sale In F10,House,For Sale,-,-,Islamabad,"F-10, Islamabad, Islamabad Capital",20.0,F-10,140000000,28/12/2022
+446,House 42815876,40x80 Brand New House For Rent,House,For Rent,6,6,Islamabad,"G-14, Islamabad, Islamabad Capital",14.2 ,G-14,200000,26/12/2022
+447,House 42113438,Beautifully Designed Full House Available For Rent In Dha Defence Phase 2 Islamabad.,House,For Rent,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,200000,26/12/2022
+448,House 42942029,Golden Properties Offer You A Very Nice House For Rent  In Dha Phase 01,House,For Rent,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,200000,26/12/2022
+449,House 42766207,F8 New Beautiful 622 Sq Yd House 6 Bedroom With Attached Bathroom Drawing And Dining Tv Lounge Kitchen Servant Quarter Ac And Heating System,House,For Rent,6,-,Islamabad,"F-8, Islamabad, Islamabad Capital",24.0,F-8,1300000,26/12/2022
+450,House 42793125,House For Rent In I-10 Islamabad,House,For Rent,2,2,Islamabad,"I-10, Islamabad, Islamabad Capital",5 ,I-10,65000,26/12/2022
+451,House 42886249,House For Rent In I-8 Islamabad,House,For Rent,3,3,Islamabad,"I-8, Islamabad, Islamabad Capital",14 ,I-8,200000,26/12/2022
+452,House 42852290,House Available For Rent,House,For Rent,6,6,Islamabad,"G-11, Islamabad, Islamabad Capital",14 ,G-11,300000,26/12/2022
+453,House 42852350,Prominently-Located 2250 Square Feet House Available In G-11,House,For Rent,6,6,Islamabad,"G-11, Islamabad, Islamabad Capital",10 ,G-11,300000,26/12/2022
+454,House 40440939,F-7 Like Brand New 04 Bedroom House At Prime Location For Rent With Beautiful Lawn,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,800000,26/12/2022
+455,House 42658230,Beautiful Renovated Defence Villa For Rent,House,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",11 ,DHA Defence,200000,25/12/2022
+456,House 41003117,Brand New 10 Marla House For Rent In Dha Phase 2,House,For Rent,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10 ,DHA Defence,200000,25/12/2022
+457,House 42797724,40x80 Brand New House For Rent,House,For Rent,6,6,Islamabad,"G-14, Islamabad, Islamabad Capital",14.2 ,G-14,200000,25/12/2022
+458,House 42853131,1 Kanal House For Rent,House,For Rent,6,7,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,300000,27/12/2022
+459,House 42587333,Bahria Enclave Sector B1 Full House 5 Marla ) 4 Bedrooms With Attached 5 Washrooms /1 Car Parking) 1 Servant Room,House,For Rent,5,4,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,80000,26/12/2022
+460,House 42694879,Full furnished house for rent,House,For Rent,6,6,Islamabad,"E-7, Islamabad, Islamabad Capital",26.0,E-7,1300000,26/12/2022
+461,House 42560520,4500 Square Feet House Available For Rent In F-7,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,800000,26/12/2022
+462,House 43154732,House For Rent In G15 Size 11 Marla Double Storey Brand New House Water Gas Electricity All Facilities Near To Markaz Best Location Five Options Available,House,For Rent,6,7,Islamabad,"G-15, Islamabad, Islamabad Capital",11 ,G-15,200000,26/12/2022
+463,House 41904034,2 Bedroom With Attached Bathroom With Drawing Room 5 Marla House Available For Rent,House,For Rent,3,2,Islamabad,"Royal City, Islamabad, Islamabad Capital",5 ,Royal City,20000,28/12/2022
+464,House 43189491,5 Marla Full House For Rent,House,For Rent,3,4,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,80000,28/12/2022
+465,House 43167012,House For Rent In E-11,House,For Rent,4,4,Islamabad,"E-11, Islamabad, Islamabad Capital",8 ,E-11,200000,28/12/2022
+466,House 43189459,Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,6,Islamabad,"F-6, Islamabad, Islamabad Capital",20.0,F-6,500000,28/12/2022
+467,House 43189427,Brand New Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,7,Islamabad,"F-6, Islamabad, Islamabad Capital",26.0,F-6,1000000,28/12/2022
+468,House 43189403,Brand New Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,9,Islamabad,"F-6, Islamabad, Islamabad Capital",26.0,F-6,1200000,28/12/2022
+469,House 43189104,Prime Location Excellent House Available For Rent Ideal For Foreigners-,House,For Rent,4,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,600000,28/12/2022
+470,House 41643808,10 Marla Double Full House For Rent,House,For Rent,5,5,Islamabad,"Gulberg, Islamabad, Islamabad Capital",10 ,Gulberg,200000,28/12/2022
+471,Flat 43103298,Defence Residency Dha Phase 2 Gate 2 Islamabad,Flat,For Rent,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.6 ,DHA Defence,28000,24/12/2022
+472,Flat 43022125,Fully Furnished Apartment For Rent In Diplomatic Enclave,Flat,For Rent,2,2,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",7.1 ,Diplomatic Enclave,200000,27/12/2022
+473,Flat 43021713,Unfurnished Apartment For Rent In Diplomatic Enclave,Flat,For Rent,2,2,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",7.1 ,Diplomatic Enclave,200000,27/12/2022
+474,Flat 43021443,Fully Furnished Apartment For Rent In Diplomatic Enclave,Flat,For Rent,2,2,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",7.1 ,Diplomatic Enclave,200000,27/12/2022
+475,Flat 42915592,Fully Furnished Apartment For Rent In Diplomatic Enclave,Flat,For Rent,2,2,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",7.3 ,Diplomatic Enclave,200000,26/12/2022
+476,Flat 42915271,Fully Furnished Apartment For Rent In Oca,Flat,For Rent,2,1,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",4.8 ,Constitution Avenue,200000,26/12/2022
+477,Flat 42626984,Flat For Rent,Flat,For Rent,2,2,Islamabad,"Zaraj Housing Scheme, Islamabad, Islamabad Capital",6 ,Zaraj Housing Scheme,50000,24/12/2022
+478,Flat 42733598,Flat Available For Rent,Flat,For Rent,-,-,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.6 ,DHA Defence,30000,28/12/2022
+479,Flat 43141031,3 Bedroom Apartment Available For Rent,Flat,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",11.6 ,DHA Defence,80000,26/12/2022
+480,Flat 42919157,Fully Furnished Defence Executive Available For Rent,Flat,For Rent,1,1,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.5 ,DHA Defence,50000,26/12/2022
+481,Flat 42923840,Idyllic Flat Available In The Royal Mall and Residency For rent,Flat,For Rent,-,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",8.9 ,Bahria Town,200000,26/12/2022
+482,Flat 42793295,Warda Hamna Residencia 2 Flat Available For Rent,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.1 ,G-11,95000,26/12/2022
+483,Flat 42888753,Beautiful 3-Bed Renovated  Apartment Available For Rent Prime Location F11,Flat,For Rent,3,3,Islamabad,"F-11, Islamabad, Islamabad Capital",12.4 ,F-11,200000,27/12/2022
+484,Flat 41447845,2 Bed Apartment For Rent In Warda Hamna 2,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.2 ,G-11,100000,26/12/2022
+485,Flat 41868755,2 Bed Apartment For Rent In Warda Hamna 3,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",5.8 ,G-11,85000,26/12/2022
+486,Flat 41696696,2 Bed Apartment For Rent In Warda Hamna 1,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.2 ,G-11,95000,26/12/2022
+487,Flat 43101119,2 Bed Apartment For Rent in Warda Hamna 2,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",8.4 ,G-11,200000,26/12/2022
+488,Flat 42892909,1 Bed Fully Furnished Apartment For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.7 ,E-11,55000,28/12/2022
+489,Flat 42893191,1 Bed Un-furnished Apartment For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.7 ,E-11,45000,28/12/2022
+490,Flat 42997574,3 Bedroom Furnished For Rent,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",8 ,E-11,200000,28/12/2022
+491,Flat 43144475,E11 One Bedroom Fully Furnished Apartment Available For Rent In Islamabad,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.2 ,E-11,50000,28/12/2022
+492,Flat 43189003,The Galleria Three Bed Gold Apartment for Rent available bahria Enclave Islamabad,Flat,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.5 ,Bahria Town,50000,28/12/2022
+493,Flat 40406580,3 Bedroom Apartment For Rent On Urgent Basis In Askari Tower 2 Dha 2 Islamabad,Flat,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",12 ,DHA Defence,68000,28/12/2022
+494,Flat 40406277,3 Bedroom Apartment For Rent In Askari Tower 1 Dha 2 Islamabad,Flat,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",12 ,DHA Defence,72000,28/12/2022
+495,Flat 41208088,12 Marla Brand New Flat For Rent On Urgent Bases In Askari Tower Iii Dha 5 Islamabad,Flat,For Rent,4,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",12 ,DHA Defence,50000,28/12/2022
+496,Flat 42775914,Signature Hotels Flat For Sale,Flat,For Sale,1,-,Islamabad,"Top City 1, Islamabad, Islamabad Capital",2.1 ,Top City 1,20000000,26/12/2022
+497,Flat 42723485,This Is Your Chance To Buy Flat In Islamabad,Flat,For Sale,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2.2 ,Bahria Town,20000000,26/12/2022
+498,Flat 38490960,Lifestyle Residency Flat For Sale,Flat,For Sale,3,3,Islamabad,"G-13, Islamabad, Islamabad Capital",9.1 ,G-13,8500000,25/12/2022
+499,Flat 42633636,Flat Of 480.47 Square Feet In Bahria Enclave - Sector H For sale,Flat,For Sale,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2.1 ,Bahria Town,7300000,25/12/2022
+500,Flat 42640311,Luxurious Apartment for sale in Eighteen Housing Society Islamabad,Flat,For Sale,1,-,Islamabad,"Kashmir Highway, Islamabad, Islamabad Capital",7.2 ,Kashmir Highway,40000000,25/12/2022
+501,Flat 42076202,"Zarkon Heights G-15, Sector Islamabad",Flat,For Sale,2,2,Islamabad,"G-15, Islamabad, Islamabad Capital",5.5 ,G-15,20000000,27/12/2022
+502,Flat 42630607,2 Bed Flat For Sale In Zarkon Heights,Flat,For Sale,2,2,Islamabad,"G-15, Islamabad, Islamabad Capital",5.5 ,G-15,20000000,27/12/2022
+503,Flat 41672659,Goldcrest Highlife Overseas Block 3 Bed Corner Apartment Near Giga Mall Dha Phase 2 Islamabad,Flat,For Sale,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",5.1 ,DHA Defence,20000000,27/12/2022
+504,Flat 42865060,Brand New Good Location 3 Bedroom Gold Category Apartment Beautiful View,Flat,For Sale,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.5 ,Bahria Town,20000000,27/12/2022
+505,Flat 42963484,E11 2 Bedroom Apartment Available For Sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,20000000,26/12/2022
+506,Flat 42734082,Studio Apartment Available For Sale In Elysium Tower Islamabad,Flat,For Sale,1,1,Islamabad,"Blue Area, Islamabad, Islamabad Capital",3.2 ,Blue Area,30000000,27/12/2022
+507,Flat 42653572,1545 Square Feet Flat Situated In Zarkon Heights For sale,Flat,For Sale,3,3,Islamabad,"G-15, Islamabad, Islamabad Capital",6.9 ,G-15,20000000,27/12/2022
+508,Flat 43189405,BEAUTIFUL FOUR BED APARTMENT IN GOLD CREST VIEWS 2 ON PRIME LOCATION IN DHA PHASE 2 ISLAMABAD,Flat,For Sale,4,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10.7 ,DHA Defence,50000000,28/12/2022
+509,Flat 43189273,THREE BED LUXURIOS APARTMENT IN GOLD CREST VIEWS 2 ON PRIME LOCATION IN DHA PHASE 2 ISLAMABAD,Flat,For Sale,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",7.3 ,DHA Defence,40000000,28/12/2022
+510,Flat 43189230,E11 One Bedroom Fully Furnished Apartment Available For Sale In Islamabad,Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2 ,E-11,6600000,28/12/2022
+511,Flat 43189052,THREE BED LUXURIOS APARTMENT IN GOLD CREST VIEWS 1 ON DHA PHASE 2 ISLAMABAD,Flat,For Sale,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",6.8 ,DHA Defence,30000000,28/12/2022
+512,Flat 42139587,1 Bedroom Apartment For Sale In Luxus Mall And Residency Gulberg Islamabad,Flat,For Sale,1,1,Islamabad,"Gulberg, Islamabad, Islamabad Capital",3.4 ,Gulberg,8500000,28/12/2022
+513,Flat 43112246,3 Bed Apartment For Sale In Luxus Mall And Residencia Gulberg Greens Islamabad,Flat,For Sale,3,3,Islamabad,"Gulberg, Islamabad, Islamabad Capital",6.9 ,Gulberg,20000000,28/12/2022
+514,Flat 43047840,E-11 One Bedroom Fully Furnished Apartment Available for Sale in Islamabad,Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2 ,E-11,6500000,28/12/2022
+515,Flat 43108966,F11 Four Bedroom Luxury Apartment Available For Sale in Islamabad,Flat,For Sale,4,4,Islamabad,"F-11, Islamabad, Islamabad Capital",17.8 ,F-11,80000000,28/12/2022
+516,House 40948017,Beautiful House Prime Location Best Opportunity,House,For Sale,6,5,Islamabad,"F-6, Islamabad, Islamabad Capital",34.0,F-6,270000000,25/12/2022
+517,House 42695702,F-8 House Available For Sale.,House,For Sale,6,5,Islamabad,"F-8, Islamabad, Islamabad Capital",36.0,F-8,400000000,25/12/2022
+518,House 42071700,Brand New House With Swimming Pool & Lift Single Owner Cda Transfer,House,For Sale,7,6,Islamabad,"E-7, Islamabad, Islamabad Capital",32.0,E-7,600000000,25/12/2022
+519,House 41283334,Brand New Constructed 5 Marla House Front Open For Sale In Sector H,House,For Sale,4,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,30000000,25/12/2022
+520,House 42676252,5 Marla House For Sale In Bahria Enclave Sector-b1,House,For Sale,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,30000000,25/12/2022
+521,House 42664498,5 Marla Brand New Double Storey House For Sale Bedrooms 4 With Attached 6 Washrooms 1 Large Car Parking Solid Construction A Great Material,House,For Sale,6,4,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",5 ,Bani Gala,20000000,24/12/2022
+522,House 41123012,01 Kanal House For Sale In Bani Gala On Prime Location.,House,For Sale,7,7,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",20.0,Bani Gala,60000000,24/12/2022
+523,House 43040465,5 Marla House For Sale,House,For Sale,5,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,20000000,24/12/2022
+524,House 42884839,CDA Transfer Full House Available For Sale In F-10 By Asco Properties.,House,For Sale,2,5,Islamabad,"F-10, Islamabad, Islamabad Capital",3.6 ,F-10,30000000,24/12/2022
+525,House 37389382,30x60 Brand New Double Storey Designer House For Sale In B-17 Block C1,House,For Sale,7,5,Islamabad,"B-17, Islamabad, Islamabad Capital",8 ,B-17,30000000,24/12/2022
+526,House 43144856,10 Marla House For Sale In G-13 Islamabad,House,For Sale,7,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,60000000,28/12/2022
+527,House 43144972,10 Marla House For Sale In G-13 Islamabad,House,For Sale,7,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,60000000,28/12/2022
+528,House 42715078,05 Marla House For Sale In Dha Valley Islamabad,House,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",5 ,DHA Defence,6800000,28/12/2022
+529,House 42975909,5 Marla House For Sale In F Block B-17 Islamabad,House,For Sale,4,3,Islamabad,"B-17, Islamabad, Islamabad Capital",5 ,B-17,20000000,28/12/2022
+530,House 43178246,06 Marla Beautiful Double Storey House Available In Pwd Block-d Near To Isb Highway,House,For Sale,4,5,Islamabad,"PWD Housing Scheme, Islamabad, Islamabad Capital",6 ,PWD Housing Scheme,30000000,28/12/2022
+531,House 42821214,2 Kanal Double Storey Margalla House For Sale In Ptv Colony Islamabad,House,For Sale,6,7,Islamabad,"PTV Colony, Islamabad, Islamabad Capital",40.0,PTV Colony,80000000,28/12/2022
+532,House 43072066,1800 Square Feet Spacious House Available In Bahria Enclave - Sector G For Sale,House,For Sale,5,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",8 ,Bahria Town,40000000,28/12/2022
+533,House 42785632,Spacious 666 Square Yards House Available For sale In F-10/3,House,For Sale,5,5,Islamabad,"F-10, Islamabad, Islamabad Capital",26.0,F-10,160000000,28/12/2022
+534,House 42785629,Your Dream 666 Square Yards House Is Available In F-10/3,House,For Sale,5,5,Islamabad,"F-10, Islamabad, Islamabad Capital",26.0,F-10,150000000,28/12/2022
+535,House 42785606,500 Square Yards House For sale In F-7/1,House,For Sale,5,5,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,200000000,28/12/2022
+536,House 42785590,Highly-coveted 1200 Square Yards House Is Available In G-6 For sale,House,For Sale,6,6,Islamabad,"G-6, Islamabad, Islamabad Capital",48.0,G-6,270000000,28/12/2022
+537,House 42785594,House In G-6 Sized 1000 Square Yards Is Available,House,For Sale,8,7,Islamabad,"G-6, Islamabad, Islamabad Capital",40.0,G-6,290000000,28/12/2022
+538,House 42785617,Centrally Located House In F-11 Is Available For sale,House,For Sale,6,6,Islamabad,"F-11, Islamabad, Islamabad Capital",20.0,F-11,150000000,28/12/2022
+539,House 42785592,1000 Square Yards House Is Available For sale In G-6,House,For Sale,8,7,Islamabad,"G-6, Islamabad, Islamabad Capital",40.0,G-6,280000000,28/12/2022
+540,House 43105121,Book House Today In DHA Phase 2 - Sector E,House,For Sale,5,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,28/12/2022
+541,House 42791042,House For Rent In I-10,House,For Rent,2,2,Islamabad,"I-10, Islamabad, Islamabad Capital",5 ,I-10,65000,25/12/2022
+542,House 42790986,Beautiful Full House For Rent In F6,House,For Rent,6,6,Islamabad,"F-6, Islamabad, Islamabad Capital",15 ,F-6,500000,25/12/2022
+543,House 42741947,F7 Like A Brand New 04 Bedroom Luxurious House With Beautiful Garden,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",48.0,F-7,800000,25/12/2022
+544,House 39508041,A Graceful 4 Bed House Is Available For Rent In F-8,House,For Rent,4,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,400000,25/12/2022
+545,House 42718711,15 Marla  Duplex Available For Rent.,House,For Rent,5,4,Islamabad,"F-10, Islamabad, Islamabad Capital",15 ,F-10,300000,25/12/2022
+546,House 42718400,"1 Kanal Single Unit House For Rent In Dha Phase 1 C Orchard, Islamabad",House,For Rent,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,200000,25/12/2022
+547,House 39504984,Spacious 2 Kanal House for Rent,House,For Rent,6,5,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,500000,25/12/2022
+548,House 40194383,Renovated 7 Bed House At Prime Location,House,For Rent,8,7,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,1100000,25/12/2022
+549,House 40319391,5 Bedroom Double Unit Brand New House Available For Rent,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,700000,25/12/2022
+550,House 40319573,6 BEDROOM BRAND NEW HOUSE AVAILABLE FOR FOREIGNERS,House,For Rent,7,6,Islamabad,"F-6, Islamabad, Islamabad Capital",17.8 ,F-6,900000,25/12/2022
+551,House 40319699,5 Bedroom House With Huge Lawn On Margalla Road Available,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,900000,25/12/2022
+552,House 40320094,7 Bedroom Luxurious House With Huge Lawn Available,House,For Rent,8,7,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,1200000,25/12/2022
+553,House 43120725,2 Kanal Residential House On Rent In Sector F 11,House,For Rent,6,8,Islamabad,"F-11, Islamabad, Islamabad Capital",40.0,F-11,800000,26/12/2022
+554,House 42879399,House In Chak Shahzad Sized 3 Kanal Is Available,House,For Rent,8,7,Islamabad,"Chak Shahzad, Islamabad, Islamabad Capital",60.0,Chak Shahzad,700000,26/12/2022
+555,House 42879401,A 700 Square Yards House Has Landed On Market In F-8 Of F-8,House,For Rent,8,7,Islamabad,"F-8, Islamabad, Islamabad Capital",28.0,F-8,1100000,26/12/2022
+556,House 42879403,A Centrally Located House Is Available For rent In F-7,House,For Rent,8,7,Islamabad,"F-7, Islamabad, Islamabad Capital",32.0,F-7,1000000,26/12/2022
+557,House 43062466,F-11 V-beautiful Six Bed House For Rent,House,For Rent,6,6,Islamabad,"F-11, Islamabad, Islamabad Capital",17 ,F-11,400000,26/12/2022
+558,House 43188339,50x90 Full House Available For Rent In G13 Isb,House,For Rent,6,7,Islamabad,"G-13, Islamabad, Islamabad Capital",20.0,G-13,300000,28/12/2022
+559,House 43188155,Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,5,Islamabad,"F-6, Islamabad, Islamabad Capital",20.0,F-6,600000,28/12/2022
+560,House 43188153,Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,5,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,600000,28/12/2022
+561,House 41622753,1 Kanal Brand New House For Rent In Dha 2 Sector E Islamabad,House,For Rent,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,200000,28/12/2022
+562,House 41622878,1 Kanal Brand New Designers House For Rent In Dha 2 Sector G Islamabad,House,For Rent,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,200000,28/12/2022
+563,House 41645152,10 Marla Brand New Designer House For Rent In Dha 2 Sector C Islamabad,House,For Rent,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10 ,DHA Defence,100000,28/12/2022
+564,House 40346753,1 Kanal House Is Available For Rent In Dha 2 Islamabad,House,For Rent,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,200000,28/12/2022
+565,House 43188049,Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,600000,28/12/2022
+566,Flat 42924872,3 Bedroom Apartment For Rent In Defence Residency Block 15,Flat,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",7.3 ,DHA Defence,50000,26/12/2022
+567,Flat 40073185,2 Bed Tv Lounge Flat For Rent In Defense Residency Dha Phase 2 Gate 2 Islamabad,Flat,For Rent,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.6 ,DHA Defence,28000,24/12/2022
+568,Flat 40741023,2 Bed Tv Lounge Flat For Rent In Defense Residency Dha Phase 2 Gate 2 Islamabad,Flat,For Rent,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.6 ,DHA Defence,30000,23/12/2022
+569,Flat 43070673,2 Bed Flat For Rent,Flat,For Rent,2,2,Islamabad,"Zaraj Housing Scheme, Islamabad, Islamabad Capital",3.2 ,Zaraj Housing Scheme,36000,22/12/2022
+570,Flat 42272880,2 Bed Flat 2 Washroom Tv Lounge Kitchen.,Flat,For Rent,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.6 ,DHA Defence,28000,25/12/2022
+571,Flat 42153162,2 Bed Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"B-17, Islamabad, Islamabad Capital",3.2 ,B-17,30000,26/12/2022
+572,Flat 42844176,Beautiful 2 bed unfurnished apartment for rent in capital Resdencia E 11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,65000,26/12/2022
+573,Flat 41108542,Beautiful Brand New 4 Bed Unfurnished Apartment For Rent In Capital Residencia E 11,Flat,For Rent,4,4,Islamabad,"E-11, Islamabad, Islamabad Capital",10.7 ,E-11,99000,26/12/2022
+574,Flat 42203769,Beautiful Brand New 2 Bed Unfurnished Apartment For Rent In F-11,Flat,For Rent,3,2,Islamabad,"F-11, Islamabad, Islamabad Capital",7.1 ,F-11,200000,26/12/2022
+575,Flat 42875318,One Bed Apartment Available For rent in Capital Residencia E11,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.1 ,E-11,45000,26/12/2022
+576,Flat 42949418,Two Bed Furnished Apartment Available For rent In Capital Residencia,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,90000,26/12/2022
+577,Flat 42570685,Brand New Two bed Apartment Available for rent in Capital Residencia E11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,65000,26/12/2022
+578,Flat 42949332,Brand new Two Bed Furnished Apartment Available For rent In Capital Residencia E11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,90000,26/12/2022
+579,Flat 42875152,Brand New Four Bed Apartment Available for rent in Capital Residencia E11,Flat,For Rent,4,4,Islamabad,"E-11, Islamabad, Islamabad Capital",10.7 ,E-11,100000,26/12/2022
+580,Flat 42631789,Beautiful Fully Renovated Brand New 3 Bed Unfurnished Apartment For Rent In F-11,Flat,For Rent,3,3,Islamabad,"F-11, Islamabad, Islamabad Capital",14.4 ,F-11,200000,26/12/2022
+581,Flat 42774969,A 1250 Square Feet Flat Located In E-11 Is Available For rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,100000,26/12/2022
+582,Flat 42775514,Flat Of 1450 Square Feet Available For rent In E-11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.4 ,E-11,200000,26/12/2022
+583,Flat 42257839,E-11 Three Bedroom Fully Furnished Apartment Available For Rent In Islamabad,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",8.4 ,E-11,200000,28/12/2022
+584,Flat 42219191,E11 One Bedroom Fully Furnished Apartment Available For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.9 ,E-11,60000,28/12/2022
+585,Flat 42505770,E-11 One Bedroom Fully Furnished Apartment Available For Rent Islamabad,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.7 ,E-11,55000,28/12/2022
+586,Flat 42505790,E-11 Three Bedroom Fully Furnished Apartment Available for Rent in Islamabad,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",5.3 ,E-11,200000,28/12/2022
+587,Flat 43112342,E11 Three Bedroom Unfurnished Apartment Available For Rent In Islamabad,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",5.3 ,E-11,70000,28/12/2022
+588,Flat 42199461,E-11/3 Multi 1 Bed Room Furnished Flat For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2 ,E-11,50000,28/12/2022
+589,Flat 42552987,E-11/4 2 Bedroom Flat Underground Parking For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.1 ,E-11,45000,28/12/2022
+590,Flat 42327445,Apartment For Rent,Flat,For Rent,-,-,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.3 ,DHA Defence,45000,28/12/2022
+591,Flat 42718533,"Three Room Apartment for sale in Defence Residency near Giga Mall, WTC DHA-2 Islamabad",Flat,For Sale,3,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",4.9 ,DHA Defence,9000000,25/12/2022
+592,Flat 41168230,"3 Bed Luxurious Apartment In The Heart Of Islamabad, Gulberg Greens.",Flat,For Sale,3,3,Islamabad,"Gulberg, Islamabad, Islamabad Capital",8.3 ,Gulberg,30000000,25/12/2022
+593,Flat 38513329,Life Style Residency Flat For Sale,Flat,For Sale,3,3,Islamabad,"G-13, Islamabad, Islamabad Capital",7.8 ,G-13,7200000,24/12/2022
+594,Flat 38513893,Life Style Residency Flat For Sale,Flat,For Sale,2,2,Islamabad,"G-13, Islamabad, Islamabad Capital",6 ,G-13,5600000,24/12/2022
+595,Flat 38514438,LifeStyle Residency Flat For Sale,Flat,For Sale,2,2,Islamabad,"G-13, Islamabad, Islamabad Capital",5.1 ,G-13,4800000,24/12/2022
+596,Flat 42574285,Buy Possession 02 BHK Ready To Move In Flat In Royal Mall & Residency,Flat,For Sale,3,2,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",6.4 ,Bahria Town,20000000,26/12/2022
+597,Flat 42701501,Park View City Elanza Creeks 700 Sq. ft 1 Bed Apartment Sale On 3 Years Installment Plan,Flat,For Sale,1,1,Islamabad,"Park View City, Islamabad, Islamabad Capital",3.1 ,Park View City,7000000,26/12/2022
+598,Flat 42733672,Looking For A Flat In Islamabad,Flat,For Sale,2,2,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",4.6 ,Bahria Town,20000000,26/12/2022
+599,Flat 42175091,2 Bed Apartment For Sale,Flat,For Sale,3,2,Islamabad,"G-11, Islamabad, Islamabad Capital",5.8 ,G-11,30000000,26/12/2022
+600,Flat 42606555,G-11/3 Flat 1100 Sq/ft 2nd Floor Renovated For Sale,Flat,For Sale,2,3,Islamabad,"G-11, Islamabad, Islamabad Capital",4.9 ,G-11,20000000,26/12/2022
+601,Flat 42653571,Zarkon Heights Flat For sale Sized 1545 Square Feet,Flat,For Sale,3,3,Islamabad,"G-15, Islamabad, Islamabad Capital",6.9 ,G-15,20000000,27/12/2022
+602,Flat 42653575,A Flat At Affordable Price Awaits You,Flat,For Sale,4,4,Islamabad,"G-15, Islamabad, Islamabad Capital",16.9 ,G-15,30000000,27/12/2022
+603,Flat 43163479,Luxury 2 Bed Apartment Available On Installments At Sukoon Vista B-17,Flat,For Sale,3,2,Islamabad,"B-17, Islamabad, Islamabad Capital",4.6 ,B-17,8400000,27/12/2022
+604,Flat 41207896,12 Marla Brand New Flat For Sale On Urgent Bases On Investor Rate In Askari Tower 3 Dha 5 Islamabad,Flat,For Sale,4,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",12 ,DHA Defence,30000000,28/12/2022
+605,Flat 42505798,E-11 One Bedroom Fully Furnished Apartment Available For Sale In Islamabad,Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.8 ,E-11,20000000,28/12/2022
+606,Flat 43187271,E11 Abdullah Heights Three Bedroom Apartment Available For Sale,Flat,For Sale,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",5.1 ,E-11,20000000,28/12/2022
+607,Flat 42186654,3 Bed Apartment Available For Sale In DHA Phase 2 Islamabad,Flat,For Sale,2,2,Islamabad,"GT Road, Islamabad, Islamabad Capital",4.2 ,GT Road,9500000,28/12/2022
+608,Flat 42186577,2 Bed Apartment Available For Sale In Goldcrest Highlife-2 Islamabad,Flat,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.9 ,DHA Defence,8500000,28/12/2022
+609,Flat 42186555,1 Bed Apartment Available For Sale In Goldcrest Highlife-2 Islamabad,Flat,For Sale,1,1,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",2.8 ,DHA Defence,4500000,28/12/2022
+610,Flat 42186520,2 Bed Apartment TV Lounge Available For Sale In DHA Phase 2 Islamabad,Flat,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.6 ,DHA Defence,7500000,28/12/2022
+611,Flat 43186151,Four Bed Luxurios Apartment In Gold Crest Views 2 On Prime Location In Dha Phase 2 Islamabad,Flat,For Sale,4,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10.5 ,DHA Defence,50000000,28/12/2022
+612,House 42620040,2 Kanal House In Bahria Garden City - Zone 1 For sale At Good Location,House,For Sale,6,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",40.0,Bahria Town,120000000,24/12/2022
+613,House 37081298,House Is Available For Sale In Dha Phase 2 Sector G,House,For Sale,8,7,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,100000000,24/12/2022
+614,House 41725000,5 Marla House Available For Sale In D-12 1,House,For Sale,4,4,Islamabad,"D-12, Islamabad, Islamabad Capital",5 ,D-12,50000000,24/12/2022
+615,House 42213501,8 Marla Brand New House For Sale In Faisal Town Islamabad,House,For Sale,5,5,Islamabad,"Faisal Town - F-18, Islamabad, Islamabad Capital",8 ,Faisal Town - F-18,40000000,24/12/2022
+616,House 42768521,Semi Furnished House Is Available For Sale In F-8 Islamabad,House,For Sale,4,4,Islamabad,"F-8, Islamabad, Islamabad Capital",22.0,F-8,170000000,25/12/2022
+617,House 43065531,Luxurious And Designer House For Sale In Dha 2,House,For Sale,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,24/12/2022
+618,House 42831654,05 Marla Corner House Available For Sale In Dha Valley Islamabad,House,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",5 ,DHA Defence,6600000,23/12/2022
+619,House 41371850,Beautiful Designer House Available For Sale,House,For Sale,6,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,50000000,23/12/2022
+620,House 42491656,Brand New Good Location 10 Marla Luxurious House Front Open On Investor Price.,House,For Sale,6,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,40000000,23/12/2022
+621,House 42193211,"Ideal 1800 Square Feet House Available In G-13, G-13",House,For Sale,5,5,Islamabad,"G-13, Islamabad, Islamabad Capital",8 ,G-13,50000000,23/12/2022
+622,House 43145056,10 Marla Park Face House For Sale In G-13 Islamabad,House,For Sale,7,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,70000000,28/12/2022
+623,House 42378266,Designer House For Sale On The Most Prime Location Of DHA,House,For Sale,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,27/12/2022
+624,House 42946879,New House Good Loction,House,For Sale,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,28/12/2022
+625,House 40371125,10 Marla Beautiful House Is Available For Sale In Bahria Enclave Islamabad,House,For Sale,5,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,40000000,28/12/2022
+626,House 42776302,One Kanal Brand New Designer Luxurious House Is Available For Sell In Bahria Enclave Islamabad,House,For Sale,6,7,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",20.0,Bahria Town,100000000,28/12/2022
+627,House 43114009,10 Marla Designer House Is Available For Sale In Bahria Enclave Islamabad,House,For Sale,6,-,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,50000000,28/12/2022
+628,House 40552652,"4 Marla Full House For Sale At A Prime Location In F-10 By Asco Properties, Islamabad.",House,For Sale,2,3,Islamabad,"F-10, Islamabad, Islamabad Capital",4 ,F-10,30000000,28/12/2022
+629,House 43190451,4 Kanal House Available For Sale In F-8,House,For Sale,6,10,Islamabad,"F-8, Islamabad, Islamabad Capital",80.0,F-8,850000000,28/12/2022
+630,House 43190351,7 Marla Brand New House For Sale,House,For Sale,6,4,Islamabad,"FECHS, Islamabad, Islamabad Capital",7 ,FECHS,40000000,28/12/2022
+631,House 42334527,1 Kanal House For Sale In Dha 1 Phase 1 Sector B,House,For Sale,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,110000000,28/12/2022
+632,House 43189461,Designer house available for sale bulit on 1 kannal level and solid,House,For Sale,6,7,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",26.0,DHA Defence,90000000,28/12/2022
+633,House 43189101,Corner Luxury House On Extremely Prime Location Available For Sale In Islamabad Pakistan,House,For Sale,6,7,Islamabad,"F-8, Islamabad, Islamabad Capital",26.0,F-8,300000000,28/12/2022
+634,House 43188931,Corner Luxury House On Extremely Prime Location Available For Sale In Islamabad Pakistan,House,For Sale,6,6,Islamabad,"F-8, Islamabad, Islamabad Capital",26.0,F-8,310000000,28/12/2022
+635,House 43049082,I-10 1 Four Bedroom Double Storey House Available For Sale In Islamabad,House,For Sale,6,4,Islamabad,"I-10, Islamabad, Islamabad Capital",5 ,I-10,40000000,28/12/2022
+636,House 42419496,3 Marla House For Sale Tarlai Islamabad,House,For Sale,2,3,Islamabad,"Tarlai, Islamabad, Islamabad Capital",3 ,Tarlai,3600000,28/12/2022
+637,House 41224580,E-7 Brand New 6 Bed House At Very Peaceful Location,House,For Rent,7,6,Islamabad,"E-7, Islamabad, Islamabad Capital",40.0,E-7,1500000,25/12/2022
+638,House 42074005,F-6 Brand New 06 Bedroom House With Heating And Cooling System,House,For Rent,7,6,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,1700000,25/12/2022
+639,House 40262688,F6 06 Bed House Totally Marble & Tiled Flooring With Heating Cooling System,House,For Rent,7,6,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,1100000,25/12/2022
+640,House 42533856,House Available For Rent In I-10 Islamabad,House,For Rent,5,5,Islamabad,"I-10, Islamabad, Islamabad Capital",6 ,I-10,100000,25/12/2022
+641,House 42455645,10 Marla House For Rent,House,For Rent,5,5,Islamabad,"F-11, Islamabad, Islamabad Capital",10 ,F-11,300000,24/12/2022
+642,House 42455240,600 Sq Yards Full House For Rent,House,For Rent,6,6,Islamabad,"F-11, Islamabad, Islamabad Capital",24.0,F-11,500000,24/12/2022
+643,House 42611323,Beautiful House Available For Rent In F10/2 Islamabad,House,For Rent,6,6,Islamabad,"F-10, Islamabad, Islamabad Capital",20.0,F-10,500000,24/12/2022
+644,House 42381498,F-7 Fully Furnished House For Rent Beautiful View,House,For Rent,4,3,Islamabad,"F-7, Islamabad, Islamabad Capital",22.0,F-7,400000,24/12/2022
+645,House 42379716,F 7 Like A Brand New 6 Bedroom House With Beautiful Garden,House,For Rent,7,6,Islamabad,"F-7, Islamabad, Islamabad Capital",22.0,F-7,500000,24/12/2022
+646,House 42380418,F-7 08 Bedroom House At Very Secure And Peace Full Location,House,For Rent,8,8,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,600000,24/12/2022
+647,House 42510240,F-8 05 Bedroom Renovated House For Rent With Beautiful Garden,House,For Rent,6,5,Islamabad,"F-8, Islamabad, Islamabad Capital",26.0,F-8,500000,24/12/2022
+648,House 42510823,A Beautiful Renovated 05 Bedroom Compact House With Beautiful Garden At A Prime Location,House,For Rent,6,5,Islamabad,"F-8, Islamabad, Islamabad Capital",22.0,F-8,600000,24/12/2022
+649,House 42385015,F-11 V Beautiful New House For Rent,House,For Rent,6,7,Islamabad,"F-11, Islamabad, Islamabad Capital",20.0,F-11,500000,26/12/2022
+650,House 43144794,E11(16 Marla house for Rent),House,For Rent,6,6,Islamabad,"E-11, Islamabad, Islamabad Capital",16 ,E-11,400000,26/12/2022
+651,House 42979607,House Available To School On Main Main Margalla Road,House,For Rent,-,10,Islamabad,"F-7, Islamabad, Islamabad Capital",80.0,F-7,1400000,26/12/2022
+652,House 43099924,House Avilable For Rent In F-6,House,For Rent,4,4,Islamabad,"F-6, Islamabad, Islamabad Capital",22.0,F-6,300000,26/12/2022
+653,House 41591424,Luxury  House On Extremely prime Location Available For Rent in Islamabad Pakistan,House,For Rent,6,7,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,1500000,26/12/2022
+654,House 43187976,Brand New Luxury House With Beautiful Location,House,For Rent,5,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,400000,28/12/2022
+655,House 43187956,Brand New Luxury House With Beautiful Location,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,400000,28/12/2022
+656,House 43187888,Brand New Luxury House With Beautiful Location,House,For Rent,5,4,Islamabad,"F-6, Islamabad, Islamabad Capital",20.0,F-6,400000,28/12/2022
+657,House 43187762,Brand New Luxury House With Beautiful Location,House,For Rent,5,4,Islamabad,"F-6, Islamabad, Islamabad Capital",20.0,F-6,500000,28/12/2022
+658,House 43187757,Brand New Luxury House With Beautiful Location,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,500000,28/12/2022
+659,House 43187751,Brand New Luxury House With Beautiful Location,House,For Rent,5,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,500000,28/12/2022
+660,House 43187725,Brand New Luxury House With Beautiful Location,House,For Rent,5,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,600000,28/12/2022
+661,House 43187708,Brand New Luxury House With Beautiful Location,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,600000,28/12/2022
+662,Flat 43143025,Bahria Enclave Islamabad 2 Bed 1366 Sq Ft Apartment For Rent,Flat,For Rent,2,2,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",6.1 ,Bahria Town,45000,26/12/2022
+663,Flat 42947294,One Bed Fully Furnished Apartment Available For Rent  In E11. Islamabad.,Flat,For Rent,2,1,Islamabad,"E-11, Islamabad, Islamabad Capital",4.7 ,E-11,75000,26/12/2022
+664,Flat 43039853,The Centaurus Flat Sized 2644 Square Feet For rent,Flat,For Rent,5,4,Islamabad,"F-8, Islamabad, Islamabad Capital",11.8 ,F-8,600000,26/12/2022
+665,Flat 38972043,803 Square Feet Flat For rent In DHA Defence,Flat,For Rent,-,-,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.6 ,DHA Defence,25000,26/12/2022
+666,Flat 40307471,Brand New Two Bed Apartment Available In Capital Residencia,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,55000,26/12/2022
+667,Flat 40309542,Two bed appartment available for rent with drawing room,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,65000,26/12/2022
+668,Flat 40283448,Brand new three bed appartment available in capital residencia for families,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.6 ,E-11,75000,26/12/2022
+669,Flat 40090805,Brand new two bed room apartment available in capital residencia tower for families only,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,55000,26/12/2022
+670,Flat 42870793,Furnished Flat For Rent In Gulberg Green Islamabad,Flat,For Rent,1,1,Islamabad,"Gulberg, Islamabad, Islamabad Capital",2.4 ,Gulberg,55000,26/12/2022
+671,Flat 42870940,Furnished Flat For Rent In Gulberg Green Islamabad,Flat,For Rent,2,2,Islamabad,"Gulberg, Islamabad, Islamabad Capital",4.7 ,Gulberg,80000,26/12/2022
+672,Flat 42871347,Furnished Flat For Rent In Gulberg Green Islamabad,Flat,For Rent,1,1,Islamabad,"Gulberg, Islamabad, Islamabad Capital",2.4 ,Gulberg,50000,26/12/2022
+673,Flat 42631162,Luxurious Furnished Apartment For Rent,Flat,For Rent,5,4,Islamabad,"Constitution Avenue, Islamabad, Islamabad Capital",22.0,Constitution Avenue,600000,26/12/2022
+674,Flat 39536463,Brand New Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"Park Road, Islamabad, Islamabad Capital",4.7 ,Park Road,40000,26/12/2022
+675,Flat 42801599,2 Bed Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"H-13, Islamabad, Islamabad Capital",4.9 ,H-13,35000,25/12/2022
+676,Flat 37318691,Your Ideal 2400 Square Feet Flat Has Just Become Available In Capital Residencia,Flat,For Rent,4,4,Islamabad,"E-11, Islamabad, Islamabad Capital",10.7 ,E-11,200000,25/12/2022
+677,Flat 42594829,Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",3.8 ,Bani Gala,30000,25/12/2022
+678,Flat 42957982,Residential Apartment On Rent In E 11,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",9.3 ,E-11,90000,25/12/2022
+679,Flat 43186923,1 bedroom luxury furnished apartment available for rent in E11,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.8 ,E-11,80000,28/12/2022
+680,Flat 42355542,1bed Tv Lounge Open Kitchen Flat Available For Rent,Flat,For Rent,1,1,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",4.3 ,DHA Defence,25000,28/12/2022
+681,Flat 42186514,2 Bed Apartment TV Lounge Available For Rent In DHA Phase 2 Islamabad,Flat,For Rent,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.6 ,DHA Defence,28000,28/12/2022
+682,Flat 42186639,3 Bed Apartment Available For Rent In DHA Phase 2 Islamabad,Flat,For Rent,3,3,Islamabad,"GT Road, Islamabad, Islamabad Capital",6.2 ,GT Road,45000,28/12/2022
+683,Flat 42111878,Beautiful Brand New 3 Bed Unfurnished Apartment For Rent In Capital Resdencia E 11,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.6 ,E-11,75000,28/12/2022
+684,Flat 43185505,Beautiful 3 Bedroom - 3 Bath ( 24/7 Maintenance & Security Included ) For Rent,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",10.2 ,E-11,71000,28/12/2022
+685,Flat 41548580,E11 Three Bedroom Unfurnished Apartment Available For Rent,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.6 ,E-11,65000,28/12/2022
+686,Flat 41537495,E-11 One Bedroom Luxury Fully Furnished Apartment Available For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.8 ,E-11,60000,28/12/2022
+687,Flat 42552091,2 Bed Apartment For Sale Cda Sector,Flat,For Sale,2,2,Islamabad,"I-8, Islamabad, Islamabad Capital",3.1 ,I-8,20000000,24/12/2022
+688,Flat 42424819,Ready To Buy A Flat In Mumtaz City - Indus Block Islamabad,Flat,For Sale,3,3,Islamabad,"Mumtaz City, Islamabad, Islamabad Capital",11.3 ,Mumtaz City,40000000,27/12/2022
+689,Flat 43166553,"Bin Yaqoob Arcade - F18, Islamabad Apartments Flexible Installment",Flat,For Sale,2,2,Islamabad,"Faisal Town - F-18, Islamabad, Islamabad Capital",4.2 ,Faisal Town - F-18,9400000,28/12/2022
+690,Flat 42809622,Fully Furnished Apartment For Sale In Diplomatic Enclave,Flat,For Sale,2,2,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",8 ,Diplomatic Enclave,50000000,25/12/2022
+691,Flat 43021206,Apartment For Sale In Diplomatic Enclave,Flat,For Sale,2,2,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",7.1 ,Diplomatic Enclave,50000000,27/12/2022
+692,Flat 42733695,937 Square Feet Flat In Bahria Enclave - Sector C1 For sale,Flat,For Sale,2,2,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",4.2 ,Bahria Town,20000000,26/12/2022
+693,Flat 42812952,Flat Available On Easy Installments In Awt D18,Flat,For Sale,2,2,Islamabad,"D-18, Islamabad, Islamabad Capital",3.3 ,D-18,6000000,26/12/2022
+694,Flat 42842834,Prime Location 2000 Square Feet Spacious Flat Is Available In Business Bay DHA For sale,Flat,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",8.9 ,DHA Defence,30000000,26/12/2022
+695,Flat 41720325,Goldcrest Highlife Overseas Block 3 Bed Corner Apartment Near Giga Mall Dha Phase 2 Islamabad,Flat,For Sale,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",5.1 ,DHA Defence,20000000,26/12/2022
+696,Flat 42722586,MPCHS - Multi Gardens Flat Sized 750 Square Feet,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3.3 ,B-17,5500000,26/12/2022
+697,Flat 42653576,This Is Your Chance To Buy Flat In Islamabad,Flat,For Sale,4,4,Islamabad,"G-15, Islamabad, Islamabad Capital",16.9 ,G-15,30000000,27/12/2022
+698,Flat 42943202,Two Bed Brand New Luxury Apartment For Sale.,Flat,For Sale,2,2,Islamabad,"G-15, Islamabad, Islamabad Capital",5.5 ,G-15,20000000,27/12/2022
+699,Flat 43186033,B Type Ground Floor Life Style Residency Apartment For Sale G-13,Flat,For Sale,3,3,Islamabad,"G-13, Islamabad, Islamabad Capital",7.8 ,G-13,7100000,28/12/2022
+700,Flat 43186034,C type Ground floor life style Residency apartment for sale G-13,Flat,For Sale,2,2,Islamabad,"G-13, Islamabad, Islamabad Capital",6 ,G-13,5400000,28/12/2022
+701,Flat 43186035,C type Ground floor life style Residency apartment for sale G-13,Flat,For Sale,2,2,Islamabad,"G-13, Islamabad, Islamabad Capital",6 ,G-13,5400000,28/12/2022
+702,Flat 43186036,D type Ground floor life style Residency apartment for sale G-13,Flat,For Sale,2,2,Islamabad,"G-13, Islamabad, Islamabad Capital",5.1 ,G-13,4700000,28/12/2022
+703,Flat 43186037,B  type ground  floor life style Residency apartment for sale G-13,Flat,For Sale,3,3,Islamabad,"G-13, Islamabad, Islamabad Capital",6 ,G-13,7200000,28/12/2022
+704,Flat 43186038,A type Ground floor life style Residency apartment for sale G-13,Flat,For Sale,3,3,Islamabad,"G-13, Islamabad, Islamabad Capital",9.1 ,G-13,8400000,28/12/2022
+705,Flat 43185948,BEAUTIFUL FOUR BED APARTMENT IN GOLD CREST VIEWS 2 ON DHA PHASE 2 ISLAMABAD,Flat,For Sale,4,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10.3 ,DHA Defence,50000000,28/12/2022
+706,Flat 43185699,1 Bedroom Luxury Flat For Sale DAWOOD PLAZA,Flat,For Sale,1,1,Islamabad,"H-13, Islamabad, Islamabad Capital",3.2 ,H-13,6500000,28/12/2022
+707,House 42768661,Semi Furnished House For Sale In F-6 Islamabad,House,For Sale,6,6,Islamabad,"F-6, Islamabad, Islamabad Capital",19.5 ,F-6,170000000,25/12/2022
+708,House 41827433,5 Marla Villa Brand New Park View City Block A,House,For Sale,4,3,Islamabad,"Park View City, Islamabad, Islamabad Capital",5 ,Park View City,30000000,22/12/2022
+709,House 42958716,Brand New House For Sale In Dha 2 Sector C,House,For Sale,-,-,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,100000000,26/12/2022
+710,House 41478917,14 Marla Korang Town House For Sale,House,For Sale,6,5,Islamabad,"Korang Town, Islamabad, Islamabad Capital",14 ,Korang Town,40000000,26/12/2022
+711,House 42757755,House For Sale Sector A Near To Masjid Park School And Central Commercial,House,For Sale,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,80000000,26/12/2022
+712,House 43089750,Ready To Buy A House 1000 Square Feet In G-13,House,For Sale,5,5,Islamabad,"G-13, Islamabad, Islamabad Capital",4.4 ,G-13,40000000,23/12/2022
+713,House 42491375,10 Marla Brand New Luxurious House Beautiful Location On Reasonable Price,House,For Sale,6,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,50000000,23/12/2022
+714,House 43091438,9 Marla House In Bahria Enclave - Sector G For sale,House,For Sale,4,4,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",9 ,Bahria Town,50000000,23/12/2022
+715,House 43091433,Ready To Buy A House In Bahria Enclave - Sector A Islamabad,House,For Sale,5,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,50000000,23/12/2022
+716,House 41553652,Prime Location Brand New Double Storey House Is Available For Sale In D-12 1 Islamabad.,House,For Sale,5,5,Islamabad,"D-12, Islamabad, Islamabad Capital",4 ,D-12,50000000,23/12/2022
+717,House 43019451,Elegant CNC Design Beautiful House,House,For Sale,5,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10 ,DHA Defence,60000000,27/12/2022
+718,House 41765584,Most Innovative And Beautifully Design 1 Kanal Bungalow Up For Sale,House,For Sale,7,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,27/12/2022
+719,House 43162785,4 Marla Brand New House Available For Sale G-13 Islamabad,House,For Sale,4,4,Islamabad,"G-13, Islamabad, Islamabad Capital",4 ,G-13,30000000,28/12/2022
+720,House 42496758,One Kanal Brand New Designer House Available For Sale,House,For Sale,7,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,100000000,28/12/2022
+721,House 42214554,6 Bedroom Double Unit House Available For Sale In Dha Phase 1 Islamabad,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,70000000,28/12/2022
+722,House 43042745,F-7 House For Sale.,House,For Sale,6,8,Islamabad,"F-7, Islamabad, Islamabad Capital",50.0,F-7,600000000,28/12/2022
+723,House 41550777,Prime Location Brand New Double Unit House Is Available For Sale In Shah Allah Ditta Islamabad,House,For Sale,4,4,Islamabad,"Shah Allah Ditta, Islamabad, Islamabad Capital",5 ,Shah Allah Ditta,20000000,28/12/2022
+724,House 42275401,"5 Marla House For Sale Lethrar road, Islamabad",House,For Sale,3,2,Islamabad,"Lehtarar Road, Islamabad, Islamabad Capital",5 ,Lehtarar Road,7200000,28/12/2022
+725,House 42277452,"5 Marla Double Storey House For Sale Burma Town, Islamabad",House,For Sale,4,4,Islamabad,"Burma Town, Islamabad, Islamabad Capital",5 ,Burma Town,9000000,28/12/2022
+726,House 42211782,4 Marla House For Sale In Khanna Dak Lehtirar Road Islamabad,House,For Sale,4,4,Islamabad,"Lehtarar Road, Islamabad, Islamabad Capital",4 ,Lehtarar Road,20000000,28/12/2022
+727,House 42216368,5 Marla House For Sale In Khanna Dak Lehtarar Road Islamabad,House,For Sale,6,4,Islamabad,"Lehtarar Road, Islamabad, Islamabad Capital",5 ,Lehtarar Road,20000000,28/12/2022
+728,House 42271085,"5 Marla House For Sale, Koral Town Islamabad",House,For Sale,2,2,Islamabad,"Koral Town, Islamabad, Islamabad Capital",5 ,Koral Town,8000000,28/12/2022
+729,House 42275059,"5 Marla House For Sale Ghauri town phase 4, Islamabad",House,For Sale,4,4,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",5 ,Ghauri Town,20000000,28/12/2022
+730,House 42168320,"Newly Constructed Beautiful House 5 Marla, Burma Town, Islamabad",House,For Sale,3,3,Islamabad,"Burma Town, Islamabad, Islamabad Capital",5 ,Burma Town,8000000,28/12/2022
+731,House 42168558,3 Marla Double Storey House For Sale In Sanam Chok Islamabad,House,For Sale,4,4,Islamabad,"Lehtarar Road, Islamabad, Islamabad Capital",3 ,Lehtarar Road,8500000,28/12/2022
+732,House 42220597,F8 06 Bedroom Compact House For Rent With Garden At Very Peace Full Location Ideal For Foreigners,House,For Rent,7,6,Islamabad,"F-8, Islamabad, Islamabad Capital",22.0,F-8,900000,24/12/2022
+733,House 42619674,7 Marla Brand New House For Rent In G-13 Islamabad,House,For Rent,6,5,Islamabad,"G-13, Islamabad, Islamabad Capital",7 ,G-13,200000,24/12/2022
+734,House 42641746,Brand New 1 Kanal Luxury House Available For Rent,House,For Rent,6,7,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,300000,24/12/2022
+735,House 40141120,4 Bed 800 Sq Yd Beautiful House With Lawn Is Available For Rent In F-8,House,For Rent,4,4,Islamabad,"F-8, Islamabad, Islamabad Capital",32.0,F-8,500000,24/12/2022
+736,House 42256430,E-7 04 Bedroom Compact House For Rent With Beautiful View,House,For Rent,5,4,Islamabad,"E-7, Islamabad, Islamabad Capital",20.0,E-7,500000,27/12/2022
+737,House 42256503,E-7 05 Bedroom Compact House For Rent With Beautiful Garden,House,For Rent,6,5,Islamabad,"E-7, Islamabad, Islamabad Capital",22.0,E-7,600000,27/12/2022
+738,House 43025800,Full House For Rent In F-7 Islamabad,House,For Rent,5,5,Islamabad,"F-7, Islamabad, Islamabad Capital",48.0,F-7,800000,27/12/2022
+739,House 42734474,I 10 4 5 Marla House Available For Rent,House,For Rent,2,2,Islamabad,"I-10, Islamabad, Islamabad Capital",5 ,I-10,50000,27/12/2022
+740,House 43001281,7 Marla Double Storey House For Rent,House,For Rent,6,6,Islamabad,"Shah Allah Ditta, Islamabad, Islamabad Capital",7 ,Shah Allah Ditta,60000,27/12/2022
+741,House 42950686,Beautiful  A New House G11-2,House,For Rent,6,7,Islamabad,"F-11, Islamabad, Islamabad Capital",18 ,F-11,400000,26/12/2022
+742,House 42843189,Islamabad I-10 House Available For Rent,House,For Rent,2,2,Islamabad,"I-10, Islamabad, Islamabad Capital",6 ,I-10,65000,26/12/2022
+743,House 42884762,House Available For Rent,House,For Rent,6,6,Islamabad,"G-9, Islamabad, Islamabad Capital",14 ,G-9,300000,26/12/2022
+744,House 42083466,Brand New Luxurious House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,6,Islamabad,"F-7, Islamabad, Islamabad Capital",24.0,F-7,1300000,26/12/2022
+745,House 42109628,Defence Villa Available For Rent,House,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",11 ,DHA Defence,200000,26/12/2022
+746,House 42281346,5 Beds Corner Full House For Rent,House,For Rent,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,200000,26/12/2022
+747,House 42351083,F. 11 Double Storey House With Basement 7 Beds 2 Kitchens,House,For Rent,7,7,Islamabad,"F-11, Islamabad, Islamabad Capital",26.0,F-11,400000,26/12/2022
+748,House 42555732,F-11 Double Storey House 8 Beds Brand New Baths And Kitchens.,House,For Rent,8,8,Islamabad,"F-11, Islamabad, Islamabad Capital",26.0,F-11,500000,26/12/2022
+749,House 43187673,Brand New Luxury House With Beautiful Location,House,For Rent,5,4,Islamabad,"F-6, Islamabad, Islamabad Capital",20.0,F-6,600000,28/12/2022
+750,House 43187364,Beautiful House With Huge Green Lawn For Rent,House,For Rent,5,4,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,600000,28/12/2022
+751,House 43187304,Beautiful House For Rent With Huge Green Lawn,House,For Rent,5,4,Islamabad,"F-8, Islamabad, Islamabad Capital",40.0,F-8,600000,28/12/2022
+752,House 43187269,Beautiful House With Huge Green Lawn For Rent,House,For Rent,5,4,Islamabad,"F-7, Islamabad, Islamabad Capital",40.0,F-7,600000,28/12/2022
+753,House 43187086,Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,7,Islamabad,"F-7, Islamabad, Islamabad Capital",26.0,F-7,1000000,28/12/2022
+754,House 43186909,"Bahria Town Garden city zone 1 Corner Villa 2 Kanal 6 bedrooms 6 bathrooms
+2 servant room Dog space Available Dining room powder room open kitchen Garden Available",House,For Rent,6,6,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",40.0,Bahria Town,400000,28/12/2022
+755,House 43186882,HOUSE IN DHA DEFFENCE PHASE 2 ISLAMABAD,House,For Rent,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,300000,28/12/2022
+756,House 43186873,Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",24.0,F-7,600000,28/12/2022
+757,Flat 43121076,G11-3 Warda Hamna 1 Beautiful Apartment For Rent 2bed,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.6 ,G-11,95000,25/12/2022
+758,Flat 43118128,Two Bed Furnished Flat For Rent In E-11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4.9 ,E-11,95000,25/12/2022
+759,Flat 42867818,One Bed Brand New Unfurnished Apartment For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.4 ,E-11,35000,25/12/2022
+760,Flat 39697911,Luxury Suite 3 Bedroom Fully Furnished Apartment For Rent In F-11 Islamabad,Flat,For Rent,3,3,Islamabad,"F-11, Islamabad, Islamabad Capital",13.3 ,F-11,200000,24/12/2022
+761,Flat 42303273,Brand New 3 Bed Apartment First Floor Sector - H,Flat,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.6 ,Bahria Town,75000,24/12/2022
+762,Flat 42883845,Brand New Flat,Flat,For Rent,2,2,Islamabad,"Top City 1, Islamabad, Islamabad Capital",4.2 ,Top City 1,30000,24/12/2022
+763,Flat 42863005,2 Bed Apartment For Rent In Bani Gala Islamabad,Flat,For Rent,3,3,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",5 ,Bani Gala,38000,24/12/2022
+764,Flat 37313945,B -17 2bed Luxury Full Furnished Apartments Available For Rent In Capital Sequre,Flat,For Rent,3,2,Islamabad,"B-17, Islamabad, Islamabad Capital",5.6 ,B-17,60000,24/12/2022
+765,Flat 41905147,Aesthetic Flat Of 804 Square Feet For rent Is Available,Flat,For Rent,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.6 ,DHA Defence,30000,24/12/2022
+766,Flat 42141345,Luxurious Furnished Flat Available For Rent in Islamabad  Pakistan,Flat,For Rent,4,2,Islamabad,"F-8, Islamabad, Islamabad Capital",10 ,F-8,400000,24/12/2022
+767,Flat 42576385,F-11 2bed Fully Furnished Apartment For Rent,Flat,For Rent,2,2,Islamabad,"F-11, Islamabad, Islamabad Capital",6.2 ,F-11,200000,24/12/2022
+768,Flat 42090832,Warda Hamna 2 Bed Flat For Rent,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.1 ,G-11,100000,24/12/2022
+769,Flat 42218677,Beautiful 3 Room  Full Furnished Flat In F-11 Islamabad,Flat,For Rent,3,4,Islamabad,"F-11, Islamabad, Islamabad Capital",12.4 ,F-11,200000,24/12/2022
+770,Flat 41336278,F-11 Fully Furnished 1 Bed Flat Available For Rent,Flat,For Rent,1,1,Islamabad,"F-11, Islamabad, Islamabad Capital",5.3 ,F-11,80000,24/12/2022
+771,Flat 42915897,2 Bed Furnished Apartment For Rent F11 Islamabad,Flat,For Rent,2,2,Islamabad,"F-11, Islamabad, Islamabad Capital",7.8 ,F-11,90000,24/12/2022
+772,Flat 41913577,Very Beautiful And Reasonable Price Furnish Flat Available In E-11 2,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",3.1 ,E-11,65000,24/12/2022
+773,Flat 42897294,Neat And Clean Apartment For Rent In Warda Hamna G11/3.,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.6 ,G-11,95000,24/12/2022
+774,Flat 42407404,Two Bedrooms Fully Furnished Apartment Available For Rent In The Heart Of Islamabad,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.4 ,E-11,95000,28/12/2022
+775,Flat 42368113,Residential Apartment For Rent In E11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.7 ,E-11,100000,28/12/2022
+776,Flat 42394281,Residential Apartment Available On Rent In F-10,Flat,For Rent,2,2,Islamabad,"F-10, Islamabad, Islamabad Capital",5.8 ,F-10,200000,28/12/2022
+777,Flat 42865928,F-11 Markaz Al Safa Heights 2 Fully Furnished Two Bedroom Available For Rent,Flat,For Rent,2,2,Islamabad,"F-11, Islamabad, Islamabad Capital",7.6 ,F-11,85000,28/12/2022
+778,Flat 42076658,Warda Hamna 3 2 Bedroom Tv Lounge Dining Kitchen Store Flat Available For Rent,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.6 ,G-11,98000,28/12/2022
+779,Flat 42837315,F11 Markaz Al Safa Heights 2 Fully Furnished One Bedroom Available For Rent,Flat,For Rent,1,1,Islamabad,"F-11, Islamabad, Islamabad Capital",5.6 ,F-11,80000,28/12/2022
+780,Flat 43039816,F11 Markaz 2bedroom Tv Lounge Fully Furnished Available For Rent,Flat,For Rent,2,2,Islamabad,"F-11, Islamabad, Islamabad Capital",7.3 ,F-11,200000,28/12/2022
+781,Flat 42907036,Diplomatic Enclave  G5 One Bedroom Tv Lounge Kitchen Study Bedroom Available For Rent,Flat,For Rent,2,1,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",4.2 ,Diplomatic Enclave,200000,28/12/2022
+782,Flat 43188045,Hotel Service Villa,Flat,For Sale,1,1,Islamabad,"Airline Avenue, Islamabad, Islamabad Capital",0.2 ,Airline Avenue,1200000,28/12/2022
+783,Flat 41566363,1 bed apartment ready for sale,Flat,For Sale,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2.4 ,Bahria Town,7500000,28/12/2022
+784,Flat 43167600,Double Bedroom Apartment Available For Sale In Rose Tower,Flat,For Sale,2,2,Islamabad,"Park Road, Islamabad, Islamabad Capital",5.3 ,Park Road,7500000,27/12/2022
+785,Flat 42657365,3 Bed Spacious Apartment For Sale In B17,Flat,For Sale,3,3,Islamabad,"B-17, Islamabad, Islamabad Capital",5 ,B-17,20000000,26/12/2022
+786,Flat 42663500,"Studio Apartment For Sale. Barakah Heights. Islamabad, Pakistan",Flat,For Sale,1,-,Islamabad,"H-13, Islamabad, Islamabad Capital",1.6 ,H-13,4800000,27/12/2022
+787,Flat 42864587,4 Bedroom 5 Bathrooms Servant Quarter Duplex Apartment On Sale.,Flat,For Sale,5,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,180000000,26/12/2022
+788,Flat 42785093,Bahria Enclave Islamabad Flat For Sale,Flat,For Sale,2,2,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5.5 ,Bahria Town,20000000,26/12/2022
+789,Flat 42784898,Flat Of 900 Square Feet In Bahria Enclave - Sector H For Sale,Flat,For Sale,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",4 ,Bahria Town,8000000,26/12/2022
+790,Flat 42784691,Looking For A Flat In Bahria Enclave - Sector H Islamabad,Flat,For Sale,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",11.2 ,Bahria Town,20000000,26/12/2022
+791,Flat 42832706,F-11 Markaz 2 Bedroom Un-furnished Apartment For Sale,Flat,For Sale,2,2,Islamabad,"F-11, Islamabad, Islamabad Capital",9.4 ,F-11,30000000,26/12/2022
+792,Flat 42653547,Ready To Buy A Flat In Zarkon Heights Islamabad,Flat,For Sale,1,1,Islamabad,"G-15, Islamabad, Islamabad Capital",2.8 ,G-15,9000000,27/12/2022
+793,Flat 42653548,Get Your Dream Flat In Zarkon Heights Islamabad,Flat,For Sale,1,1,Islamabad,"G-15, Islamabad, Islamabad Capital",2.8 ,G-15,9000000,27/12/2022
+794,Flat 43185671,TWO BED LUXURIOS APARTMENT IN GOLD CREST VIEWS 2 ON DHA PHASE 2 ISLAMABAD,Flat,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",6 ,DHA Defence,30000000,28/12/2022
+795,Flat 43185670,TWO BED LUXURIOS APARTMENT IN GOLD CREST VIEWS 2 ON DHA PHASE 2 ISLAMABAD,Flat,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",6 ,DHA Defence,30000000,28/12/2022
+796,Flat 43185515,2 Bed Luxury Flat  Dawood Plaza,Flat,For Sale,2,2,Islamabad,"H-13, Islamabad, Islamabad Capital",3.8 ,H-13,7700000,28/12/2022
+797,Flat 43185409,1 Bedroom Flat Dawood Plaza,Flat,For Sale,1,1,Islamabad,"H-13, Islamabad, Islamabad Capital",3.2 ,H-13,6500000,28/12/2022
+798,Flat 43185442,BEAUTIFUL TWO BED APARTMENT IN GOLD CREST VIEWS 2 ON PRIME  LOCATION IN DHA PHASE 2 ISLAMABAD,Flat,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",5.6 ,DHA Defence,30000000,28/12/2022
+799,Flat 43185351,Bank Lone Approval!!! 2 Bed Room Apartment For Sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.3 ,E-11,20000000,28/12/2022
+800,Flat 43185222,2 Bed Luxury Flat In Dawood Plaza H-13 Shams Colony,Flat,For Sale,2,2,Islamabad,"H-13, Islamabad, Islamabad Capital",5 ,H-13,20000000,28/12/2022
+801,Flat 43184946,TWO BED LUXURIOS APARTMENT IN GOLD CREST VIEWS 2 ON PRIME LOCATION IN DHA PHASE 2 ISLAMABAD,Flat,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",5.6 ,DHA Defence,30000000,28/12/2022
+802,House 42577812,Excellent South Open House For Sale Sector F With Basement Heighted Location,House,For Sale,7,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,26/12/2022
+803,House 42716415,Elegant Single Unit House Available For Sale,House,For Sale,5,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10 ,DHA Defence,60000000,27/12/2022
+804,House 42316334,South Face Elegant House Available For Sale,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,110000000,27/12/2022
+805,House 42676301,5 Marla House For Sale in Bahria Enclave Sector-B1,House,For Sale,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,30000000,25/12/2022
+806,House 40025001,2 Kanal Grey Structure House For Sale In Bahria Garden City Zone 4 East,House,For Sale,5,4,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",40.0,Bahria Town,90000000,27/12/2022
+807,House 42962049,10 Marla House available for sale in Bahria Enclave - Sector A if you hurry,House,For Sale,5,5,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,50000000,23/12/2022
+808,House 43081723,A Great Choice For A Prime Location 10 Marla House Available In D-12/4,House,For Sale,5,5,Islamabad,"D-12, Islamabad, Islamabad Capital",10 ,D-12,100000000,23/12/2022
+809,House 41037955,Brand New Double Unit House With Swimming Pool Is Available For Sale In Soan Garden,House,For Sale,8,6,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",12.4 ,Soan Garden,50000000,22/12/2022
+810,House 42580051,House For Sale In F6 Islamabad,House,For Sale,6,10,Islamabad,"F-6, Islamabad, Islamabad Capital",32.0,F-6,260000000,22/12/2022
+811,House 43081385,On Installment Corner 10 Marla Golf Course View Ground plus 4 Story House for Sale in Eighteen Islamabad,House,For Sale,7,7,Islamabad,"Kashmir Highway, Islamabad, Islamabad Capital",10 ,Kashmir Highway,80000000,22/12/2022
+812,House 42738793,"1 Kanal Corner Stylish, Beautiful And Outstanding House Up For Sale",House,For Sale,8,7,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,80000000,27/12/2022
+813,House 43162051,4 Marla Brand New House For Sale D-12,House,For Sale,4,3,Islamabad,"D-12, Islamabad, Islamabad Capital",4.4 ,D-12,40000000,27/12/2022
+814,House 41371083,Beautiful 10 Marla Brand New House Available For Sale In D12,House,For Sale,6,5,Islamabad,"D-12, Islamabad, Islamabad Capital",10 ,D-12,100000000,28/12/2022
+815,House 43151225,(35x70) Main Double Road Brand New First Entry Designer house for sale in G-13 Islamabad,House,For Sale,6,6,Islamabad,"G-13, Islamabad, Islamabad Capital",10.9 ,G-13,70000000,27/12/2022
+816,House 42899879,F-8 Brand New Luxury House For Sale,House,For Sale,6,8,Islamabad,"F-8, Islamabad, Islamabad Capital",26.0,F-8,310000000,27/12/2022
+817,House 42328550,Kanal brand new house available for sale in Dha phase 2 Islamabad,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,27/12/2022
+818,House 42206687,Kanal Brand New Fully Furnished House Available For Sale In Dha Phase 2,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,80000000,27/12/2022
+819,House 42100049,"2 Marla Brand New House For Sale , Burma Town Islamabad Highway",House,For Sale,2,2,Islamabad,"Burma Town, Islamabad, Islamabad Capital",2 ,Burma Town,3600000,28/12/2022
+820,House 42004608,3  Marla Double Storey Available For Sale Near Kalma Chowk Ghori Town Islamabad,House,For Sale,2,4,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",3 ,Ghauri Town,7700000,28/12/2022
+821,House 43188459,1 Kanal(50x90) Modern Luxury House Available For Sale In G13 Islamabad,House,For Sale,6,7,Islamabad,"G-13, Islamabad, Islamabad Capital",20.0,G-13,120000000,28/12/2022
+822,House 42015399,2 Marla House For Sale In Khanna Pul Islamabad Near Farooq Azam Chowk Islamabad,House,For Sale,2,2,Islamabad,"Khanna Pul, Islamabad, Islamabad Capital",2 ,Khanna Pul,3800000,28/12/2022
+823,House 41959105,3 Marla House For Sale In Tarlai Islamabad,House,For Sale,2,2,Islamabad,"Tarlai, Islamabad, Islamabad Capital",3 ,Tarlai,4200000,28/12/2022
+824,House 41566260,"1.5 Marla Stylish House For Sale On Lehthrar Road, Sanam Chowk Islamabad",House,For Sale,2,2,Islamabad,"Lehtarar Road, Islamabad, Islamabad Capital",1.5 ,Lehtarar Road,3500000,28/12/2022
+825,House 41884418,5 Marla 2.5 Storey House For Sale At Bilal Town Lehtarar Road Islamabad,House,For Sale,5,5,Islamabad,"Lehtarar Road, Islamabad, Islamabad Capital",5 ,Lehtarar Road,20000000,28/12/2022
+826,House 41562256,5 Marla Double Storey House For Sale In Burma Town Islamabad,House,For Sale,4,4,Islamabad,"Burma Town, Islamabad, Islamabad Capital",5 ,Burma Town,8800000,28/12/2022
+827,House 42712968,Bahria Enclave Sector M 10 Marla Carnot  House Available For Rent,House,For Rent,4,4,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,100000,28/12/2022
+828,House 42899564,"F11 1000sq. y Double Storey House 5 Beds Tile Flooring Pk450,000",House,For Rent,5,5,Islamabad,"F-11, Islamabad, Islamabad Capital",40.0,F-11,500000,26/12/2022
+829,House 43131634,Designer House 8 Marla,House,For Rent,6,6,Islamabad,"Faisal Town - F-18, Islamabad, Islamabad Capital",8 ,Faisal Town - F-18,85000,25/12/2022
+830,House 42905905,Buy A 600 Square Yards House For rent In F-7,House,For Rent,5,5,Islamabad,"F-7, Islamabad, Islamabad Capital",24.0,F-7,700000,25/12/2022
+831,House 42905908,Aesthetic House Of 1000 Square Yards For rent Is Available,House,For Rent,7,7,Islamabad,"F-6, Islamabad, Islamabad Capital",40.0,F-6,1100000,25/12/2022
+832,House 42905914,Prominently-Located House Available In F-8 For rent,House,For Rent,8,7,Islamabad,"F-8, Islamabad, Islamabad Capital",24.0,F-8,900000,25/12/2022
+833,House 42905922,Affordable House Available For rent In F-8,House,For Rent,3,3,Islamabad,"F-8, Islamabad, Islamabad Capital",24.0,F-8,400000,25/12/2022
+834,House 42905925,In F-8 House For rent Sized 600 Square Yards,House,For Rent,5,5,Islamabad,"F-8, Islamabad, Islamabad Capital",24.0,F-8,600000,25/12/2022
+835,House 42905928,533 Square Yards House For Grabs In F-7,House,For Rent,5,5,Islamabad,"F-7, Islamabad, Islamabad Capital",22.0,F-7,600000,25/12/2022
+836,House 37450810,F-7 Triple Storey House For Rent Real Pics Attached Marble And Tile Flooring,House,For Rent,9,8,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,1000000,25/12/2022
+837,House 37446717,F-8 Triple Storey 666 Sq Yards Real Pics Attached Best For Foreigners,House,For Rent,10,9,Islamabad,"F-8, Islamabad, Islamabad Capital",26.0,F-8,1000000,25/12/2022
+838,House 42801226,Residential House On Rent In F 11,House,For Rent,4,4,Islamabad,"F-11, Islamabad, Islamabad Capital",10.9 ,F-11,300000,25/12/2022
+839,House 42797085,4 Marla Full House For Rent In G13 Islamabad,House,For Rent,4,4,Islamabad,"G-13, Islamabad, Islamabad Capital",4 ,G-13,83000,25/12/2022
+840,House 43035796,Residential House on Rent in G 9,House,For Rent,5,5,Islamabad,"G-9, Islamabad, Islamabad Capital",12.8 ,G-9,300000,25/12/2022
+841,House 43103493,Residential House On Rent In G 13,House,For Rent,4,4,Islamabad,"G-13, Islamabad, Islamabad Capital",4 ,G-13,90000,25/12/2022
+842,House 43102720,Residential House for Rent in D 12,House,For Rent,3,3,Islamabad,"D-12, Islamabad, Islamabad Capital",4 ,D-12,100000,25/12/2022
+843,House 43014288,10 Marla Brand new Double Story House For rent in bani gala islamabad,House,For Rent,6,6,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",10 ,Bani Gala,75000,25/12/2022
+844,House 43186819,Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,4,4,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,400000,28/12/2022
+845,House 43186762,Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,4,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,400000,28/12/2022
+846,House 43186739,Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,5,Islamabad,"F-8, Islamabad, Islamabad Capital",24.0,F-8,600000,28/12/2022
+847,House 43186652,Brand New Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,7,Islamabad,"F-8, Islamabad, Islamabad Capital",26.0,F-8,1000000,28/12/2022
+848,House 43186614,Brand New Luxury House With Beautiful Location,House,For Rent,6,5,Islamabad,"F-8, Islamabad, Islamabad Capital",24.0,F-8,600000,28/12/2022
+849,House 43186598,Brand New Luxury House With Beautiful Location,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",24.0,F-7,600000,28/12/2022
+850,House 43186590,Brand New Luxury House With Beautiful Location,House,For Rent,6,5,Islamabad,"F-6, Islamabad, Islamabad Capital",24.0,F-6,600000,28/12/2022
+851,House 43186536,Brand New Luxury House With Beautiful Location,House,For Rent,6,7,Islamabad,"F-6, Islamabad, Islamabad Capital",24.0,F-6,1000000,28/12/2022
+852,Flat 42300609,For Executives - Fully Furnished Studio Apartment - Deluxe Residence In The Centaurus Hotel Suits At F-8 4 In Islamabad Are Available On Daily Basis Rent By Asco Properties.,Flat,For Rent,1,-,Islamabad,"F-8, Islamabad, Islamabad Capital",0.9 ,F-8,18000,24/12/2022
+853,Flat 43002731,2 Bed Fully Furnished Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"F-11, Islamabad, Islamabad Capital",6.2 ,F-11,100000,24/12/2022
+854,Flat 42664764,Full Furnished Studio Apartment For Couple Or Bachelor In E-7 Available For Rent By Asco Properties.,Flat,For Rent,1,-,Islamabad,"E-7, Islamabad, Islamabad Capital",2.7 ,E-7,200000,24/12/2022
+855,Flat 41795291,2 Bedroom Furnished Apartment For Rent,Flat,For Rent,2,2,Islamabad,"Zaraj Housing Scheme, Islamabad, Islamabad Capital",4.2 ,Zaraj Housing Scheme,75000,23/12/2022
+856,Flat 41876763,One Bedroom Fully Furnished Apartment Available For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",4.2 ,E-11,65000,23/12/2022
+857,Flat 42835870,Three Bed Apartment For Rent In E-11 Islamabad,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",6 ,E-11,65000,23/12/2022
+858,Flat 41880173,Brand New 2 Bed Apartment Fully Furnished Apartment,Flat,For Rent,2,2,Islamabad,"Park Road, Islamabad, Islamabad Capital",4.9 ,Park Road,65000,23/12/2022
+859,Flat 41153373,New Apartment Fully Furnished 2 Bed For Rent,Flat,For Rent,2,2,Islamabad,"Park Road, Islamabad, Islamabad Capital",5.1 ,Park Road,40000,23/12/2022
+860,Flat 43024629,In Capital Residencia Flat Sized 650 Square Feet For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.9 ,E-11,50000,23/12/2022
+861,Flat 42986914,G-11/3 Falt For Rent Ground Floor 900 Sqrft,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",4 ,G-11,60000,23/12/2022
+862,Flat 42277578,G11/3 Warda hamna Two Bed New Flat for Rent,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",7.1 ,G-11,95000,23/12/2022
+863,Flat 42812916,F-11 Beautiful Full Furnished Apartment Available For Rent,Flat,For Rent,1,1,Islamabad,"F-11, Islamabad, Islamabad Capital",3.6 ,F-11,80000,23/12/2022
+864,Flat 40637981,F-11 Golden Heights Two Bedrooms Furnished,Flat,For Rent,2,2,Islamabad,"F-11, Islamabad, Islamabad Capital",5.3 ,F-11,200000,23/12/2022
+865,Flat 40747123,Elysium Studio Furnished Flat For Rent,Flat,For Rent,1,-,Islamabad,"Blue Area, Islamabad, Islamabad Capital",3.4 ,Blue Area,200000,23/12/2022
+866,Flat 41957517,Furnished Apartment Available For Rent,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",7.6 ,E-11,80000,23/12/2022
+867,Flat 42717741,Two Bedroom Apartment With Dd Available For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,65000,22/12/2022
+868,Flat 42489984,Brand New One Bed Room Apartment Available For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.7 ,E-11,40000,22/12/2022
+869,Flat 43184756,F-11 Markaz Abu Dhabi Tower 1 Bedroom Tv Lounge Kitchen Lg Floor Available For Rent,Flat,For Rent,1,1,Islamabad,"F-11, Islamabad, Islamabad Capital",3.6 ,F-11,80000,28/12/2022
+870,Flat 43184582,F-8 Markaz Commercial Flat Available For Rent,Flat,For Rent,1,2,Islamabad,"Blue Area, Islamabad, Islamabad Capital",5.3 ,Blue Area,100000,28/12/2022
+871,Flat 42958586,Flat For Rent In Soan Garden All Facility Included In Rent,Flat,For Rent,2,2,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",3.8 ,Soan Garden,30000,28/12/2022
+872,Flat 43183314,C-type Flat Available For Rent In G-11/3 Pha Flats,Flat,For Rent,2,3,Islamabad,"G-11, Islamabad, Islamabad Capital",4.9 ,G-11,50000,28/12/2022
+873,Flat 42710954,1 Bed Tv Lounge Open Kitchen Available For Rent,Flat,For Rent,1,1,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.5 ,DHA Defence,25000,28/12/2022
+874,Flat 43041479,Apollo Tower Flat For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.3 ,E-11,200000,28/12/2022
+875,Flat 42978130,3 Bedroom With Attached Bath Tv Lounge Kitchen Flat Available,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,55000,28/12/2022
+876,Flat 43182447,Flat Spread Over 900 Square Feet In G-10/2 Available,Flat,For Rent,2,2,Islamabad,"G-10, Islamabad, Islamabad Capital",4 ,G-10,66000,28/12/2022
+877,Flat 42663263,"1 Bed Standard Apartment For Sale. Barakah Heights. Islamabad, Pakistan",Flat,For Sale,1,1,Islamabad,"H-13, Islamabad, Islamabad Capital",2.9 ,H-13,8500000,27/12/2022
+878,Flat 42658577,"1 Bed Standard Apartment For Sale. Tower 5. Islamabad, Pakistan",Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.3 ,E-11,8100000,27/12/2022
+879,Flat 42833911,Luxury Fully Furnished Apartment For Sale In DHA Islamabad,Flat,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.6 ,DHA Defence,8100000,26/12/2022
+880,Flat 42832918,Luxury 1 Bedroom Apartment For Sale - Brand New Building,Flat,For Sale,1,1,Islamabad,"Gulberg, Islamabad, Islamabad Capital",2.4 ,Gulberg,5900000,26/12/2022
+881,Flat 42717862,Two Bedroom Apartment With Drawing Dining Available For Sale At Prime Location,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.2 ,E-11,20000000,26/12/2022
+882,Flat 42489961,Four Bed Room Apartment Available For Sale With Drawing Dining,Flat,For Sale,4,4,Islamabad,"E-11, Islamabad, Islamabad Capital",10.7 ,E-11,30000000,26/12/2022
+883,Flat 42030781,Beautiful 2 Bed Furnished Flat For  Sale In E11/3,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",3.3 ,E-11,20000000,25/12/2022
+884,Flat 40241244,LUXURY STUDIO APARTMENT FOR SALE IN J7 EMPORIUM,Flat,For Sale,1,-,Islamabad,"B-17, Islamabad, Islamabad Capital",3 ,B-17,7900000,25/12/2022
+885,Flat 42802262,Elegant Furnished 3 Bed Flat in The Centaurus Tower A For Sale,Flat,For Sale,4,3,Islamabad,"F-8, Islamabad, Islamabad Capital",11.7 ,F-8,110000000,25/12/2022
+886,Flat 41166352,Luxury Brand New Apartment Available For Sale In Lignum Tower Dha Phase 2 Islamabad,Flat,For Sale,5,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",14.6 ,DHA Defence,40000000,25/12/2022
+887,Flat 42051609,LUXURY APARTMENTS FOR SALE EIGHTEEN KASHMIR HIGHWAY ISLAMABAD,Flat,For Sale,1,1,Islamabad,"Kashmir Highway, Islamabad, Islamabad Capital",4.2 ,Kashmir Highway,30000000,26/12/2022
+888,Flat 42051607,LUXURY APARTMENTS FOR SALE EIGHTEEN KASHMIR HIGHWAY ISLAMABAD,Flat,For Sale,2,2,Islamabad,"Kashmir Highway, Islamabad, Islamabad Capital",6.6 ,Kashmir Highway,40000000,26/12/2022
+889,Flat 40838072,F11 Markaz Abu Dhabi One Bedroom Tv Lounge Furnished Available For Sale,Flat,For Sale,1,1,Islamabad,"F-11, Islamabad, Islamabad Capital",4 ,F-11,9500000,28/12/2022
+890,Flat 41913960,F11 Markaz  Park Avenue  3 Bedroom Lounge Dining Kitchen Available For Sale,Flat,For Sale,4,3,Islamabad,"F-11, Islamabad, Islamabad Capital",12 ,F-11,50000000,28/12/2022
+891,Flat 41966694,Khudadad Height 2 Bedroom Big Tv Lounge Kitchen Flat Available For Sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",7.2 ,E-11,9900000,28/12/2022
+892,Flat 42834785,Capital Residencia One Bedroom Tv Lounge Kitchen Size 700sf For Sale,Flat,For Sale,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.1 ,E-11,20000000,28/12/2022
+893,Flat 40941220,F11 Markaz  Tariq Height 2 Bedroom Big Drawing Dining Tv Lounge Kitchen Flat For Sale,Flat,For Sale,2,2,Islamabad,"F-11, Islamabad, Islamabad Capital",9.3 ,F-11,30000000,28/12/2022
+894,Flat 43184596,Beautiful  Two Bed Apartment In  Gold Crest Views  2 On Prime Location In Dha Views 2 Islamabad,Flat,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",5.6 ,DHA Defence,30000000,28/12/2022
+895,Flat 43183949,Luxury One Bedroom Apartment for sale in DHA-2 Islamabad,Flat,For Sale,1,1,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",3.9 ,DHA Defence,7000000,28/12/2022
+896,Flat 42354146,Highland Resort 1 Bed Service Apartment Available For Sale,Flat,For Sale,1,3,Islamabad,"Pir Sohawa, Islamabad, Islamabad Capital",2.6 ,Pir Sohawa,7500000,28/12/2022
+897,House 42355079,"Find Your Ideal Prime Location House In Islamabad Under Rs. 39,000,000",House,For Sale,-,-,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10 ,DHA Defence,40000000,24/12/2022
+898,House 40797487,Sunset Homes House Sized 2250 Square Feet For Sale,House,For Sale,6,4,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",10 ,Bahria Town,40000000,27/12/2022
+899,House 42643592,Sector H 5 Marla House For Sale,House,For Sale,4,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,30000000,27/12/2022
+900,House 43070196,Owner made house not used from 3 years available for sale,House,For Sale,6,5,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,80000000,22/12/2022
+901,House 42732069,On Installments Prime Location Golf Course View 1 Kanal House Urjently For Sale In Cluster G In Eighteen Islamabad,House,For Sale,6,5,Islamabad,"Kashmir Highway, Islamabad, Islamabad Capital",20.0,Kashmir Highway,100000000,22/12/2022
+902,House 41569255,House For Sale Brand New,House,For Sale,5,4,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",24.0,Soan Garden,40000000,22/12/2022
+903,House 38630532,An Architect Designed 25x50 Feet House In D-12 1 For Sale,House,For Sale,5,5,Islamabad,"D-12, Islamabad, Islamabad Capital",5 ,D-12,50000000,22/12/2022
+904,House 43027977,8 Marla Designer House For Sale in C1 Block Multi Gardens B17 Islamabad,House,For Sale,6,5,Islamabad,"B-17, Islamabad, Islamabad Capital",8 ,B-17,30000000,22/12/2022
+905,House 43027508,Modern 35x70 Brand New House For Sale In G 13,House,For Sale,6,7,Islamabad,"G-13, Islamabad, Islamabad Capital",10.9 ,G-13,60000000,22/12/2022
+906,House 43026906,Luxury 30x60 Brand New House For Sale In G 13,House,For Sale,6,5,Islamabad,"G-13, Islamabad, Islamabad Capital",8 ,G-13,50000000,22/12/2022
+907,House 41102293,Architectural Modern House For Sale,House,For Sale,5,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",10 ,DHA Defence,60000000,26/12/2022
+908,House 42979066,Brand New Double Storey House Is Available For Sale,House,For Sale,5,5,Islamabad,"I-11, Islamabad, Islamabad Capital",7 ,I-11,50000000,26/12/2022
+909,House 42549962,F10 House 1022 Sq Yards Corner For Sale,House,For Sale,6,10,Islamabad,"F-10, Islamabad, Islamabad Capital",40.0,F-10,260000000,27/12/2022
+910,House 42589831,F10-  House For Sale,House,For Sale,6,6,Islamabad,"F-10, Islamabad, Islamabad Capital",24.0,F-10,140000000,27/12/2022
+911,House 42741376,House Of 6597 Square Feet In F-10 Is Available,House,For Sale,6,8,Islamabad,"F-10, Islamabad, Islamabad Capital",30.0,F-10,210000000,27/12/2022
+912,House 42134079,D-12/2 New House For Sale,House,For Sale,-,8,Islamabad,"D-12, Islamabad, Islamabad Capital",24.0,D-12,180000000,27/12/2022
+913,House 42550582,F10 New House For Sale,House,For Sale,6,10,Islamabad,"F-10, Islamabad, Islamabad Capital",24.0,F-10,220000000,27/12/2022
+914,House 41541542,"4 Marla House For Sale In Pindorian, Islamabad",House,For Sale,3,2,Islamabad,"Pindorian, Islamabad, Islamabad Capital",4 ,Pindorian,5200000,28/12/2022
+915,House 41542309,4 Marla Storey House House For Sale On Sudran Tarlai Lehtrar Road Islamabad,House,For Sale,2,2,Islamabad,"Tarlai, Islamabad, Islamabad Capital",4 ,Tarlai,5500000,28/12/2022
+916,House 43188218,10 Marla Corner House For Sale With Extra Land Main Double Road In G-13 Islamabad,House,For Sale,8,7,Islamabad,"G-13, Islamabad, Islamabad Capital",10 ,G-13,70000000,28/12/2022
+917,House 43188212,F11 House 5beds Kitchen 2 Price 13 Core 25 Lac Not Real Pic,House,For Sale,5,5,Islamabad,"F-11, Islamabad, Islamabad Capital",20.0,F-11,140000000,28/12/2022
+918,House 43188172,7 Marla House For Sale In G-13 Islamabad,House,For Sale,6,5,Islamabad,"G-13, Islamabad, Islamabad Capital",7 ,G-13,50000000,28/12/2022
+919,House 43188077,7 Marla House For Sale In G-13 Islamabad,House,For Sale,6,5,Islamabad,"G-13, Islamabad, Islamabad Capital",7 ,G-13,50000000,28/12/2022
+920,House 43065513,1 Kanal Designer House for Sale (Urgent Basis) on Investor Rate in DHA 2 Sector H Islamabad,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,90000000,28/12/2022
+921,House 43065224,1 Kanal Designer House For Sale (urgent Basis) On Investor Rate In Dha 2 Sector A Islamabad,House,For Sale,6,6,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",20.0,DHA Defence,80000000,28/12/2022
+922,House 42549709,F10 Full House 4 Beds Marble Floor Rent 2lac 20thousand,House,For Rent,4,4,Islamabad,"F-10, Islamabad, Islamabad Capital",16 ,F-10,300000,25/12/2022
+923,House 43010083,Fully Furnished House  G-13,House,For Rent,3,2,Islamabad,"G-13, Islamabad, Islamabad Capital",4.4 ,G-13,80000,24/12/2022
+924,House 43044548,Beautiful 1 Kanal House G-13,House,For Rent,6,7,Islamabad,"G-13, Islamabad, Islamabad Capital",20.0,G-13,300000,24/12/2022
+925,House 43056507,House For Rent,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,600000,24/12/2022
+926,House 42854365,House For Rent,House,For Rent,6,5,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,500000,24/12/2022
+927,House 42907363,House For Rent Only Foreigners,House,For Rent,5,4,Islamabad,"F-8, Islamabad, Islamabad Capital",20.0,F-8,700000,24/12/2022
+928,House 43116933,Elegant Huge Fully Furnished Unit On Prime Location,House,For Rent,4,3,Islamabad,"F-7, Islamabad, Islamabad Capital",18.7 ,F-7,1000000,24/12/2022
+929,House 42288513,Brand New House Available For Rent,House,For Rent,3,3,Islamabad,"Top City 1, Islamabad, Islamabad Capital",10 ,Top City 1,55000,24/12/2022
+930,House 42676421,"Beautiful, Modern Villa For Rent",House,For Rent,6,5,Islamabad,"Top City 1, Islamabad, Islamabad Capital",10 ,Top City 1,200000,24/12/2022
+931,House 42830926,4.4 Marla Fully Furnished Full House For Rent,House,For Rent,4,5,Islamabad,"G-13, Islamabad, Islamabad Capital",4.4 ,G-13,200000,24/12/2022
+932,House 42729079,Brand New House For Rent,House,For Rent,6,5,Islamabad,"Top City 1, Islamabad, Islamabad Capital",10 ,Top City 1,200000,24/12/2022
+933,House 42685519,Brand New House,House,For Rent,6,5,Islamabad,"Top City 1, Islamabad, Islamabad Capital",10 ,Top City 1,200000,24/12/2022
+934,House 42991251,Prime Location Brand New House Available For Rent,House,For Rent,6,7,Islamabad,"F-8, Islamabad, Islamabad Capital",24.0,F-8,900000,24/12/2022
+935,House 42816024,Double Story House 1 Unit 4 Bedrooms With Attached 5 Washrooms Fresh House 1car Parking Beautiful Location And Secure Area All Facilities Available,House,For Rent,5,4,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,65000,24/12/2022
+936,House 42532494,14 Marla Brand New House For Rent 5 Bedrooms With Attach 7 Bathrooms / 2 Car Parking Back Open House,House,For Rent,6,5,Islamabad,"Kuri Road, Islamabad, Islamabad Capital",14 ,Kuri Road,200000,24/12/2022
+937,House 42849425,10 Marla Brand New Double Story House For Rent In Bani Gala Islamabad,House,For Rent,6,4,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",10 ,Bani Gala,100000,24/12/2022
+938,House 42211787,Double Storey Stylish House For Rent In Bani Gala Islamabad,House,For Rent,2,2,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",10 ,Bani Gala,200000,24/12/2022
+939,House 43186533,Brand New Luxury House With Beautiful Location,House,For Rent,6,7,Islamabad,"F-7, Islamabad, Islamabad Capital",24.0,F-7,1000000,28/12/2022
+940,House 43186527,Brand New Luxury House With Beautiful Location,House,For Rent,6,7,Islamabad,"F-8, Islamabad, Islamabad Capital",24.0,F-8,1000000,28/12/2022
+941,House 43186378,Brand New Luxury House On Extremely Prime Location Available For Rent In Islamabad Pakistan,House,For Rent,6,9,Islamabad,"F-8, Islamabad, Islamabad Capital",26.0,F-8,1200000,28/12/2022
+942,House 43050484,Bahria Enclave Sector N 5 Marla Brand New House Available For Rent,House,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,75000,28/12/2022
+943,House 42714798,Bahria Enclave Islamabad Sector N A 5 Marla House Available For Rent,House,For Rent,3,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",5 ,Bahria Town,80000,28/12/2022
+944,House 43185448,Luxury House On Extremely Prime Location Available For Rent  In Islamabad Pakistan,House,For Rent,6,5,Islamabad,"F-7, Islamabad, Islamabad Capital",20.0,F-7,600000,28/12/2022
+945,House 43185446,Luxury House On Extremely Prime Location Available For Rent  In Islamabad Pakistan,House,For Rent,6,5,Islamabad,"F-6, Islamabad, Islamabad Capital",20.0,F-6,600000,28/12/2022
+946,House 42364593,Residential House On Rent In F 10,House,For Rent,6,7,Islamabad,"F-10, Islamabad, Islamabad Capital",40.0,F-10,600000,28/12/2022
+947,Flat 40491985,Three bed luxurious appartment available for rent in family building,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",8.4 ,E-11,80000,22/12/2022
+948,Flat 42722549,1 Bedroom Flat Available For Rent In E-11 Islamabad,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",2.7 ,E-11,55000,22/12/2022
+949,Flat 42787283,Beautifully Constructed Flat Is Available For rent In Silver Oaks Apartments,Flat,For Rent,3,3,Islamabad,"F-10, Islamabad, Islamabad Capital",9.3 ,F-10,300000,22/12/2022
+950,Flat 42595110,E 11- 2bad Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",5.6 ,E-11,48000,22/12/2022
+951,Flat 41733772,E-11 Luxurious Two Bedroom Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.4 ,E-11,95000,22/12/2022
+952,Flat 42844821,Spacious 4 Bed Drawing Dining Room Corner Flat Available For Rent Lignum Tower Dha Phase 2 Islamabad,Flat,For Rent,5,4,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",14.6 ,DHA Defence,75000,22/12/2022
+953,Flat 41133187,Beautiful Brand New 2 Bed Unfurnished Apartment For Rent In Capital Resdencia E 11,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4 ,E-11,65000,22/12/2022
+954,Flat 42809125,Beautiful 3 Bed Unfurnished Apartment For Rent In F-11,Flat,For Rent,3,3,Islamabad,"F-11, Islamabad, Islamabad Capital",9.3 ,F-11,200000,22/12/2022
+955,Flat 43072058,E11 Three Bedroom Luxury Fully Furnished Apartment Available For Rent In Islamabad,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",8.9 ,E-11,200000,22/12/2022
+956,Flat 43063749,2 Beds Flat Available For Rent,Flat,For Rent,2,2,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",3.8 ,Bahria Town,38000,22/12/2022
+957,Flat 42522547,One Master  Bedroom Fully Furnished Apartment Available For Rent In E11 In The Heart  Of Islamabad.,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",4.7 ,E-11,60000,22/12/2022
+958,Flat 42701940,Two Bedrooms Fully Furnished Luxury Apartment Available For Rent,Flat,For Rent,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",6.4 ,E-11,200000,22/12/2022
+959,Flat 43057995,F-11 Excellent Renovated Park Avenue Family Apartment 2 Bedroom With Beautiful Lawn Available For Rent,Flat,For Rent,2,2,Islamabad,"F-11, Islamabad, Islamabad Capital",8 ,F-11,200000,27/12/2022
+960,Flat 43028826,Fully Furnished Studio Apartment,Flat,For Rent,1,-,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",5.3 ,Diplomatic Enclave,200000,27/12/2022
+961,Flat 42734042,Apartment For Rent,Flat,For Rent,2,2,Islamabad,"G-11, Islamabad, Islamabad Capital",6.9 ,G-11,100000,27/12/2022
+962,Flat 43048673,Luxurious 2 Bed Rooms Apartment For Rent,Flat,For Rent,2,2,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",7.6 ,Diplomatic Enclave,300000,27/12/2022
+963,Flat 41422674,Brand New Three Bedroom Flat Available For Rent At Dha Phase 2 Islamabad.,Flat,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",6.2 ,DHA Defence,45000,27/12/2022
+964,Flat 43151675,One Badroom With Attached Bath Flat Available For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",1.6 ,E-11,25000,28/12/2022
+965,Flat 43086361,One Bed room With Attached Bath Flat Available For Rent,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",1.6 ,E-11,22000,28/12/2022
+966,Flat 43154751,One Bed Room With Attached Bath Furnished Tv Lounge Kitchen Flat Available For Rent E-11,Flat,For Rent,1,1,Islamabad,"E-11, Islamabad, Islamabad Capital",3.6 ,E-11,52000,28/12/2022
+967,Flat 42189904,1 Bad Flat Available For Rent,Flat,For Rent,2,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2.3 ,Bahria Town,28000,28/12/2022
+968,Flat 42186619,3 Bed Apartment Available For Rent In DHA Phase 2 Islamabad,Flat,For Rent,2,2,Islamabad,"GT Road, Islamabad, Islamabad Capital",4.2 ,GT Road,32000,28/12/2022
+969,Flat 43023413,2 Bed Tv Lounge Open Kitchen Available For Rent,Flat,For Rent,2,2,Islamabad,"GT Road, Islamabad, Islamabad Capital",4.2 ,GT Road,32000,28/12/2022
+970,Flat 43180779,3 Bed Furnished Apartments Available For Rent In Dha-2 Islamabad,Flat,For Rent,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",5.6 ,DHA Defence,200000,28/12/2022
+971,Flat 43041142,3 Bedroom Luxury Furnished Apartment For Rent in E-11 Islamabad,Flat,For Rent,3,3,Islamabad,"E-11, Islamabad, Islamabad Capital",8.9 ,E-11,200000,28/12/2022
+972,Flat 42733690,639 Square Feet Flat In Bahria Enclave - Sector C1 Is Best Option,Flat,For Sale,1,1,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",2.8 ,Bahria Town,9600000,25/12/2022
+973,Flat 37335318,J7 Emporium The project of J7 Group,Flat,For Sale,1,1,Islamabad,"B-17, Islamabad, Islamabad Capital",8.4 ,B-17,20000000,25/12/2022
+974,Flat 42472972,Flat For Sale In Faisal Town Block A Main Markaz,Flat,For Sale,2,2,Islamabad,"Faisal Town - F-18, Islamabad, Islamabad Capital",4.5 ,Faisal Town - F-18,8000000,25/12/2022
+975,Flat 37333455,Flat For Sale In J7 Emporium By J7 Group,Flat,For Sale,-,1,Islamabad,"B-17, Islamabad, Islamabad Capital",3.1 ,B-17,8400000,25/12/2022
+976,Flat 42589304,"3-bed 2,050 Sq. Ft Type-a Reasonable Profit For Sale In Lifestyle Res Flats G-13",Flat,For Sale,3,3,Islamabad,"G-13, Islamabad, Islamabad Capital",9.1 ,G-13,8000000,25/12/2022
+977,Flat 42776412,"2 Bedroom Flat Available For Sale In Apolo Tower,",Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4.2 ,E-11,20000000,25/12/2022
+978,Flat 39032427,4 Bed Apartment For Sale,Flat,For Sale,4,4,Islamabad,"G-15, Islamabad, Islamabad Capital",16 ,G-15,30000000,25/12/2022
+979,Flat 38237624,1 Bed Apartment For Sale,Flat,For Sale,1,1,Islamabad,"G-15, Islamabad, Islamabad Capital",2.8 ,G-15,8800000,25/12/2022
+980,Flat 40046721,Three Bedroom Spacious Apartment 2100sqft Unfurnished For Sale In Silver Oaks Apartments F-10 Islamabad,Flat,For Sale,3,3,Islamabad,"F-10, Islamabad, Islamabad Capital",9.3 ,F-10,60000000,25/12/2022
+981,Flat 34642877,F11 Executive Sweet 3 Bedroom Furnished Apartment Available For Sale,Flat,For Sale,4,4,Islamabad,"F-11, Islamabad, Islamabad Capital",10.2 ,F-11,50000000,25/12/2022
+982,Flat 42535592,A Flat Of 963.60 Square Feet In Eighteen,Flat,For Sale,2,2,Islamabad,"Kashmir Highway, Islamabad, Islamabad Capital",4.3 ,Kashmir Highway,30000000,26/12/2022
+983,Flat 43028022,1166.65 Square Feet Flat Available For sale In MPCHS - Multi Gardens,Flat,For Sale,-,-,Islamabad,"B-17, Islamabad, Islamabad Capital",5.2 ,B-17,20000000,25/12/2022
+984,Flat 43163093,The Galleria Two Bed Silver Apartment for Sale available bahria Enclave Islamabad,Flat,For Sale,2,2,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",6.1 ,Bahria Town,20000000,27/12/2022
+985,Flat 42698179,Full Furnished Flat Available At Very Reasonable Price In Minawa Country Club,Flat,For Sale,3,3,Islamabad,"Islamabad - Murree Expressway, Islamabad, Islamabad Capital",9.3 ,Islamabad - Murree Expressway,20000000,27/12/2022
+986,Flat 43161751,Capital Residenciea Flat For Sale,Flat,For Sale,2,2,Islamabad,"E-11, Islamabad, Islamabad Capital",4.2 ,E-11,20000000,27/12/2022
+987,Flat 42991105,Brand New 3 Bedrooms Semi Furnished Gold Apartments 1695 Sq Ft Available For Sale,Flat,For Sale,4,3,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",7.5 ,Bahria Town,20000000,27/12/2022
+988,Flat 43183462,Book Good Location Flat Today In Al-Ghurair Giga,Flat,For Sale,3,3,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",6.2 ,DHA Defence,20000000,28/12/2022
+989,Flat 43183461,"Good Location Flat For sale In Rs. 9,800,000",Flat,For Sale,2,2,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",4.2 ,DHA Defence,9800000,28/12/2022
+990,Flat 43183326,One Bedroom Flat for sale in DHA-2 Islamabad,Flat,For Sale,1,1,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",2.1 ,DHA Defence,4500000,28/12/2022
+991,Flat 43183149,Signature Hotels and Residence,Flat,For Sale,1,1,Islamabad,"Top City 1, Islamabad, Islamabad Capital",2.6 ,Top City 1,20000000,28/12/2022
+992,Flat 43183146,Signature Hotels and Residence,Flat,For Sale,1,1,Islamabad,"Top City 1, Islamabad, Islamabad Capital",2.4 ,Top City 1,20000000,28/12/2022
+993,Flat 43183142,Signature Hotels and Residence,Flat,For Sale,1,1,Islamabad,"Top City 1, Islamabad, Islamabad Capital",2.3 ,Top City 1,20000000,28/12/2022
