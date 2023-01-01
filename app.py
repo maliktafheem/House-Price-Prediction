@@ -11,12 +11,12 @@ df_processed = "final_data_processed.csv"
 Image = 'houses.jpeg'
 
 st.sidebar.image(Image, caption="Project on DWDM", use_column_width=True)
-st.title("House Price Prediction")
+st.title("Arz-i Riz")
 
-menu = ["House Prediction", "About"]
+menu = ["Price Prediction", "About"]
 choices = st.sidebar.selectbox("Menu", menu)
 
-if choices == 'House Prediction':
+if choices == 'Price Prediction':
     # remove all for rent properties
     df = pd.read_csv(df_processed)
     df = df[df["Property_Purpose"] == "For Sale"]
@@ -29,7 +29,7 @@ if choices == 'House Prediction':
         "Enter number of Rooms", min_value=1, max_value=11, format='%d')
     Area = st.number_input(
         "Enter Area of House (in marla)",step=1., min_value=1.0,max_value=100.0 ,format='%.1f')
-    # get a list of all the area names in the selected city from df_processed
+    # get a list of all the area names in the selected city
     Get_Area_Names = df[df['City'] == City]['Area_Name'].unique()
     # sort the list
     Get_Area_Names.sort()
