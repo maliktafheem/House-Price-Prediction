@@ -58,6 +58,7 @@ if choices == 'Price Prediction':
 if choices == 'About':
     st.subheader("About Us")
     info = '''
+        "عرضی ریز" (Arz-i Riz) - This name is a play on words, combining the Arabic/Urdu word for "price" (عرض) with the word "detail" (ریز). The name suggests a focus on providing detailed, accurate predictions of real estate prices.
         To summarize, the steps we took in the project were:
         - Collecting data: we scraped data about house prices and other relevant factors from the website Zameen.com
         - Pre-processing the data: we cleaned and pre-processed the data to ensure that it was ready for use in  the machine learning model.
